@@ -1,5 +1,6 @@
 {
   "projects": {
-    "staging": "devfest-london-2016"
+    "staging": "devfest-london-2016",
+    "default": "devfest-london-2017"
   }
 }

@@ -162,15 +162,15 @@
   },
   "location": {
     "apiKey": "",
-    "link": "https://www.campus.co/london",
+    "link": "http://www.ucl.ac.uk/",
     "pointer": {
-      "latitude": 51.522660,
-      "longitude": -0.085632,
+      "latitude": 51.5245592,
+      "longitude": -0.1340401,
       "zoom": 17
     },
     "mapCenter": {
-      "latitude": 51.522660,
-      "longitude": -0.085632
+      "latitude": 51.5245592,
+      "longitude": -0.1340401
     },
     "images": [
       "/images/backgrounds/location_1.jpg",

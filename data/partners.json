@@ -8,9 +8,9 @@
         "logoUrl": "../images/logos/google.svg"
       },
       {
-        "name": "Campus London",
-        "url": "https://www.campus.co/london",
-        "logoUrl": "../images/logos/campus_london.png"
+        "name": "University College London",
+        "url": "http://www.ucl.ac.uk/",
+        "logoUrl": "../images/logos/ucl.jpg"
       }
     ]
   }
