@@ -104,13 +104,13 @@
     ]
   },
   "tickets": {
-    "url": "http://gdg-devfest-london-2016.eventbrite.com/"
+    "url": "https://www.meetup.com/gdglondon/events/243295186"
   },
   "teamPageTitle": "team-page-title",
   "teamPageText": "team-page-text",
   "statistics": [
     {
-      "counter": 250,
+      "counter": 900,
       "caption": "attendees"
     },
     {
@@ -126,7 +126,7 @@
       "caption": "tracks"
     }
   ],
-  "hashtag": "DevFest16",
+  "hashtag": "DevFest17",
   "social": [
     {
       "name": "twitter",
