@@ -164,13 +164,13 @@
     "apiKey": "",
     "link": "http://www.ucl.ac.uk/",
     "pointer": {
-      "latitude": 51.5245592,
-      "longitude": -0.1340401,
+      "latitude": 51.5244997,
+      "longitude": -0.1332231,
       "zoom": 17
     },
     "mapCenter": {
-      "latitude": 51.5245592,
-      "longitude": -0.1340401
+      "latitude": 51.5244997,
+      "longitude": -0.1332231
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
