@@ -134,7 +134,11 @@
               <h3 class="dates">{{localize('dates')}}</h3>
               <h2 class="motto">{{localize('motto')}}</h2>
               <div class="action-buttons">
-                <paper-button class="primary" on-tap="_scrollToTickets" raised>{{localize('buy-ticket')}}</paper-button>
+                <a  href$="[[app.data.tickets.url]]" target="_blank" rel="noopener noreferrer">
+                  <paper-button class="primary" raised>
+                    [[localize('buy-ticket')]]
+                  </paper-button>
+                </a>
               </div>
             </div>
           </div>
