@@ -56,7 +56,14 @@
       },
       {
         "name": "Gen Ashley",
-        "photoUrl": "/images/people/gen.jpg"
+        "photoUrl": "/images/people/gen.jpg",
+        "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/coderinheels",
+            "name": "Twitter"
+          }
+        ]
       }
     ]
   }
