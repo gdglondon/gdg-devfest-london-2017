@@ -1,6 +1,6 @@
 [
   {
-    "title": "general-partner",
+    "title": "main-partner",
     "logos": [
       {
         "name": "Google",
@@ -11,6 +11,21 @@
         "name": "University College London",
         "url": "http://www.ucl.ac.uk/",
         "logoUrl": "../images/logos/ucl.png"
+      }
+    ]
+  },
+  {
+    "title": "general-partner",
+    "logos": [
+      {
+        "name": "Londroid",
+        "url": "https://www.meetup.com/android",
+        "logoUrl": "../images/logos/londroid.png"
+      },
+      {
+        "name": "Creative AI",
+        "url": "https://www.meetup.com/Creative-AI",
+        "logoUrl": "../images/logos/creative_ai.png"
       }
     ]
   }
