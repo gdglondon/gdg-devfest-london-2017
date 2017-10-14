@@ -35,7 +35,7 @@ meta data in `index.html`
 ```
 <head>
   <meta name="description"
-        content="The largest community created tech conference in the UK, carefully crafted for you by the Google Developer Group (GDG) community and University College London (UCL)! GDG London is a group of developers passionate about Google technologies with a strong focus on knowledge exchange and networking. Learn about Android, Web, Cloud, Machine Learning and more from world experts.">
+        content="The largest free community created tech conference in the UK, carefully crafted for you by the Google Developer Group (GDG) community and University College London (UCL)! GDG London is a group of developers passionate about Google technologies with a strong focus on knowledge exchange and networking. Learn about Android, Web, Cloud, Machine Learning and more from world experts.">
   <meta name="keywords"
         content="event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev">
   <meta name="author" content="GDG London">
