@@ -11,7 +11,7 @@ Now Replace next section
 ```
  /* Primary colors */
 --dark-primary-color:       #F57C00;
---default-primary-color:    #FF9800;
+--default-primary-color:    #FFC107;
 --light-primary-color:      #FFE0B2;
 --text-primary-color:       #212121; /* text / icons */
 
