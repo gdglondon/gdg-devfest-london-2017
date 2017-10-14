@@ -63,7 +63,7 @@ window.ENV = 'dev';
   "home": {
     "headerSettings": {
       "backgroundColor": "#FF9800",
-      "backgroundImage": "/images/backgrounds/home.png",
+      "backgroundImage": "/images/backgrounds/home.jpg",
       "fontColor": "#fff",
       "tabBarColor": "#fff",
       // data only applicable for the home page
