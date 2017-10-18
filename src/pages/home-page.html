@@ -5,6 +5,7 @@
 
 <link rel="import" href="../behaviors/page-behavior.html">
 <link rel="import" href="../elements/statistics-block.html">
+<link rel="import" href="../elements/featured-people.html">
 <link rel="import" href="../elements/call-to-action.html">
 <link rel="import" href="../elements/about-block.html">
 <link rel="import" href="../elements/latest-posts.html">
@@ -18,6 +19,7 @@
   <template>
 
     <statistics-block app="{{app}}" cascaded></statistics-block>
+    <featured-people app="{{app}}" people="{{people}}" cascaded></featured-people>
     <about-block app="{{app}}" cascaded></about-block>
     <social-feed app="{{app}}" cascaded></social-feed>
     <map-block app="{{app}}" selected="{{selected}}" cascaded></map-block>

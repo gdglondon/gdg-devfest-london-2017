@@ -28,7 +28,7 @@
     "title": "Kick off",
     "description": "Official start of the conference. Greetings from the organizers.",
     "speakers": [
-      14
+      1314
     ]
   },
   "112": {
@@ -36,7 +36,7 @@
     "title": "Wrap up",
     "description": "End of the conference, beginning of the networking and drinks.",
     "speakers": [
-      14
+      1314
     ]
   },
   "201": {
@@ -44,7 +44,7 @@
     "title": "Intro to AMP (Accelerated Mobile Pages)",
     "description": "AMP HTML is a way to build web pages for static content that render with reliable, fast performance. It is our attempt at fixing what many perceive as painfully slow page load times – especially when reading content on the mobile web.\n\nIn this talk we are going to learn what is AMP and why AMP might be a good solution for you.",
     "speakers": [
-      2
+      132
     ],
     "tags": [
       "Web"
@@ -55,7 +55,7 @@
     "title": "Putting the P in Progressive Web Apps",
     "description": "Progressive Web Apps should work everywhere for every user. But what happens when the technology and APIs are not available for your users? In this talk we will show you how you can think about and build sites that work everywhere.",
     "speakers": [
-      5
+      135
     ],
     "tags": [
       "Web"
@@ -66,7 +66,7 @@
     "title": "Migrate To Progressive Web Apps",
     "description": "This Codelab will teach you how to rapidly migrate an existing, desktop-only site to a Progressive Web App to support amazing new web features like install, push and offline.",
     "speakers": [
-      5
+      135
     ],
     "tags": [
       "Web"
@@ -77,7 +77,7 @@
     "title": "Thinking Offline",
     "description": "Building a progressively enhanced, offline capable web app requires a different way of thinking. We'll look at building an app offline first and see what lessons we can learn.",
     "speakers": [
-      8
+      138
     ],
     "tags": [
       "Web"
@@ -88,7 +88,7 @@
     "title": "The amazing Angular 2 Router",
     "description": "Angular 2 comes with a new router. We will review its main features and show how we can use navigation guards, secure sections, use nested routes and do lazy load while quickly building a prototype for a very special client!",
     "speakers": [
-      6
+      136
     ],
     "tags": [
       "Web"
@@ -99,7 +99,7 @@
     "title": "Developing Media Streaming Apps for TV the Easiest Way",
     "description": "Android development is not just about mobile devices anymore, it scaled up from mobile devices to the TV screen. Developers have now the occasion to start building for a brand new use case: the 10-foot experience. In this session, we cover what's needed to bring your Android app to the living room: we’ll dive into all the tools required to create high performing Media Streaming apps and understand how to take advantage of the big TV screen while using new UI/UX patterns and how to run your first Android App for TV on Amazon Fire TV.",
     "speakers": [
-      9
+      139
     ],
     "tags": [
       "Android"
@@ -110,7 +110,7 @@
     "title": "ClassyShark - APK analysis with ClassyShark",
     "description": "https://github.com/google/android-classyshark. I am Boris Farber, Developer Advocate at Google, focusing on Android data intensive apps. I want to show how using ClassyShark you can analyse and troubleshoot the most painful problems around runtime failures.\n\nObfuscation, Dependencies, Multidex, Native code",
     "speakers": [
-      2
+      132
     ],
     "tags": [
       "Android"
@@ -121,7 +121,7 @@
     "title": "Introduction to Firebase and Codelab",
     "description": "Firebase -- 15 technologies that will help you Develop, Grow and Earn from your mobile apps, and an Analytics product that can be used to bring them all together.",
     "speakers": [
-      12
+      1312
     ],
     "tags": [
       "Android"
@@ -132,7 +132,7 @@
     "title": "A beginners guide to machine learning for mobile developers",
     "description": "This introductory talk provides an overview of machine learning, followed by demos of some of the technologies that can be used to implement machine learning related features in mobile applications. The talk also includes a brief case study of a sample application to demonstrate how different tools can be applied to implement machine learning related features in a mobile application.",
     "speakers": [
-      13
+      1313
     ],
     "tags": [
       "Android"
@@ -143,7 +143,7 @@
     "title": "Android is for one user",
     "description": "An overview describing what accessibility means and how to develop an Android app for as many individual users as you can. We cover common design patterns in Android, discussing what function they serve and understanding when and why to substitute them for alternative interfaces. A working code example is provided, showing these principles in action, and demonstrating workflows which can be used to build accessible apps.",
     "speakers": [
-      3
+      133
     ],
     "tags": [
       "Android"
@@ -154,7 +154,7 @@
     "title": "Building Node.js Applications on GCP",
     "description": "",
     "speakers": [
-      1
+      131
     ],
     "tags": [
       "Cloud"
@@ -165,7 +165,7 @@
     "title": "Learning Go - Build your first Slack app using Go and App Engine",
     "description": "Are you curious about Go? In this talk, we will see how easy it is to create a simple Slack app with Go and deploy it using App Engine.",
     "speakers": [
-      11
+      1311
     ],
     "tags": [
       "Cloud"
@@ -176,7 +176,7 @@
     "title": "Improve your App UX with one model processing insights from logs (batch) and real-time activity streams",
     "description": "In this talk you will learn about Apache Beam (incubating). A project that came out of more than 10 years of experience with big data processing at Google. We will show you how you can improve your Apps, Web or Mobile by capturing and processing data from batch and streams in one model and run it on Google's managed Dataflow service. In this talk we'll demonstrate Dataflow’s capabilities through a real-time demo with practical insights on how to manage and visualize streams of data.",
     "speakers": [
-      7
+      137
     ],
     "tags": [
       "Cloud"
@@ -195,7 +195,7 @@
     "title": "TensorFlow for Poets codelab",
     "description": "TensorFlow is a an open source library for numerical computation, specializing in machine learning applications. In this codelab, you will learn how to install and run TensorFlow on a single machine, and will train a simple classifier to classify images of flowers.",
     "speakers": [
-      10, 13
+      1310, 1313
     ],
     "tags": [
       "Cloud"

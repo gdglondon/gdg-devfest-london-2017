@@ -2,49 +2,14 @@
   "1": {
     "id": 1,
     "featured": true,
-    "name": "Mandy Waite",
-    "title": "Developer Advocate",
-    "company": "Google",
-    "companyLogo": "/images/logos/google.svg",
-    "photoUrl": "/images/people/mandy.jpg",
-    "shortBio": "Based in London, UK, Mandy is a Developer Advocate at Google specializing in Cloud technologies.",
-    "bio": "Based in London, UK, Mandy is a Developer Advocate at Google specializing in Cloud technologies. One of her main aims in life is to make the world a better place for developers building applications for the Cloud. In the past year she has presented Cloud Technologies at over 30 events, including Google I/O 2014, two Cloud Developer Platform Roadshow tours and large developer events such as JFokus, Devoxx and Velocity. In her spare time Mandy is learning Japanese and likes to play the guitar.",
+    "name": "Raul Portales",
+    "title": "Android Developer",
+    "company": "Oneview Healthcare",
+    "companyLogo": "/images/logos/oneview.png",
+    "photoUrl": "/images/people/raul_portales.jpg",
+    "shortBio": "Raul Portales is a Software Engineer working on mobile since the early times.",
+    "bio": "Raul Portales is a Software Engineer working on mobile since the early times. He switched from Symbian to Android in 2009 (before Android versions had tasty names) and never looked back. He loves public speaking and has presented at several DroidCons, Game Developer Conferences and many GDGs. After working a lot on the front end - especially building games - Raul has developed a special interest in UX and UI.",
     "tags": [
-      "Cloud"
-    ],
-    "badges": [
-
-    ],
-    "socials": [
-      {
-        "icon": "website",
-        "name": "AboutMe",
-        "link": "https://about.me/mandywaite/"
-      },
-      {
-        "icon": "twitter",
-        "name": "Twitter",
-        "link": "https://twitter.com/tekgrrl/"
-      },
-      {
-        "icon": "gplus",
-        "name": "Google+",
-        "link": "https://plus.google.com/+MandyWaite/"
-      }
-    ]
-  },
-  "2": {
-    "id": 2,
-    "featured": false,
-    "name": "Boris Farber",
-    "title": "Developer Advocate",
-    "company": "Google",
-    "companyLogo": "/images/logos/google.svg",
-    "photoUrl": "/images/people/boris.jpg",
-    "shortBio": "Software Engineer and Speaker. Focusing on Android performance especially binary analysis. By sharing knowledge on Android APIs and patterns, I help developers to succeed.",
-    "bio": "Software Engineer and Speaker. Focusing on Android performance especially binary analysis. By sharing knowledge on Android APIs and patterns, I help developers to succeed.\n\nI am the author of ClassyShark, a Java/Android executables browser. ClassyShark helps in analysing performance and dependencies problems in Android apps. Find more at www.api-solutions.com.",
-    "tags": [
-      "Web",
       "Android"
     ],
     "badges": [
@@ -52,75 +17,56 @@
     ],
     "socials": [
       {
-        "icon": "website",
-        "name": "Website",
-        "link": "http://www.api-solutions.com/"
-      },
-      {
         "icon": "twitter",
         "name": "Twitter",
-        "link": "https://twitter.com/BorisFarber/"
+        "link": "https://twitter.com/sla_shalafi/"
       },
       {
         "icon": "linkedin",
         "name": "LinkedIn",
-        "link": "https://www.linkedin.com/in/borisfarber/"
+        "link": "https://www.linkedin.com/in/raulportales/"
+      },
+      {
+        "icon": "website",
+        "name": "Website",
+        "link": "http://plattysoft.com"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "featured": true,
+    "name": "Ben Weiss",
+    "title": "Android Engineer",
+    "company": "Google",
+    "companyLogo": "/images/logos/google.svg",
+    "photoUrl": "/images/people/ben_weiss.jpg",
+    "shortBio": "Ben is a Developer Programs Engineer at the Android Developer Relations team at Google.",
+    "bio": "Ben is a Developer Programs Engineer at the Android Developer Relations team at Google.\n\nHe’s been working with Android since the first public release.\n\nRecently his focus was on Animations, Transitions, Android Instant Apps and Kotlin.",
+    "tags": [
+      "Android"
+    ],
+    "badges": [
+
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/keyboardsurfer/"
       }
     ]
   },
   "3": {
     "id": 3,
     "featured": true,
-    "name": "Ataul Munim",
-    "title": "Android Developer",
-    "company": "Novoda",
-    "companyLogo": "/images/logos/novoda.svg",
-    "photoUrl": "/images/people/ataulm.jpg",
-    "shortBio": "Ataul Munim has been a professional Android developer for three years, currently working at Novoda London.",
-    "bio": "Ataul Munim has been a professional Android developer for three years, currently working at Novoda London. Ataul's work on UX for visually impaired users on the Android platform was recognised with a Google Developer Expert badge in early 2016 and he's currently interested in automated testing for accessibility features.",
-    "tags": [
-      "Android"
-    ],
-    "badges": [
-      {
-        "name": "GDE",
-        "description": "Android Google Developer Expert",
-        "link": "https://developers.google.com/experts/people/ataul-munim"
-      }
-    ],
-    "socials": [
-      {
-        "icon": "twitter",
-        "name": "Twitter",
-        "link": "https://twitter.com/ataulm/"
-      },
-      {
-        "icon": "website",
-        "name": "Website",
-        "link": "http://ataulm.com/"
-      },
-      {
-        "icon": "linkedin",
-        "name": "LinkedIn",
-        "link": "https://uk.linkedin.com/in/ataulm/"
-      },
-      {
-        "icon": "github",
-        "name": "GitHub",
-        "link": "https://github.com/ataulm/"
-      }
-    ]
-  },
-  "5": {
-    "id": 5,
-    "featured": false,
-    "name": "Sam Thorogood",
-    "title": "Developer Programs Engineer",
+    "name": "Surma",
+    "title": "Developer Advocate",
     "company": "Google",
     "companyLogo": "/images/logos/google.svg",
-    "photoUrl": "/images/people/sam.jpg",
-    "shortBio": "Sam is a Developer Programs Engineer at Google, where he makes the web better through standards.",
-    "bio": "Sam is a Developer Programs Engineer at Google, where he makes the web better through standards.",
+    "photoUrl": "/images/people/surma.jpg",
+    "shortBio": "Surma is an engineer working with the Chrome team. He likes to cut himself on the bleeding edge, goes full-stack every once in a while and prefers good code over functional one.",
+    "bio": "Surma is an engineer working with the Chrome team. He likes to cut himself on the bleeding edge, goes full-stack every once in a while and prefers good code over functional one.",
     "tags": [
       "Web"
     ],
@@ -131,29 +77,32 @@
       {
         "icon": "twitter",
         "name": "Twitter",
-        "link": "https://twitter.com/samthor/"
+        "link": "https://twitter.com/dassurma/"
+      },
+      {
+        "icon": "website",
+        "name": "Website",
+        "link": "https://dassur.ma/"
       }
     ]
   },
-  "6": {
-    "id": 6,
-    "featured": false,
-    "name": "Gerard Sans",
-    "title": "Technical Evangelist",
-    "company": "AngularZone",
-    "companyLogo": "/images/logos/angular_zone.jpeg",
-    "photoUrl": "/images/people/gerard_sans.jpg",
-    "shortBio": "Angular Google Developer Expert. International speaker and trainer. Enjoy running AngularLabs London.",
-    "bio": "Angular Google Developer Expert. I am a Computer Science Engineer specialised in Web. International speaker and trainer. I am an Angular fanboy and a community activist fighting for the JavaScript revolution. I have lived and worked for all sorts of companies in Germany, Brazil, UK and Spain. I am always up for a good challenge. I enjoy running AngularLabs London, mentoring students, participating in the community, giving talks and writing technical articles at Medium.",
+  "4": {
+    "id": 4,
+    "featured": true,
+    "name": "Bruce Mcpherson",
+    "title": "Consultant",
+    "company": "Pepada",
+    "companyLogo": "",
+    "photoUrl": "/images/people/bruce_mcpherson.jpg",
+    "shortBio": "Bruce is a veteran IT practioner, with 30+ years as CIO, Chief Architect and many other roles – mainly in large global enterprises.",
+    "bio": "Bruce is a veteran IT practioner, with 30+ years as CIO, Chief Architect and many other roles – mainly in large global enterprises. With expertise in each of Google, Microsoft and Oracle technologies his main interest is in integration, and has published several O'Reilly video courses and Books on Google Apps Script and JavaScript. Bruce is a Google Developer Expert (GDE) for Apps Script and Identity.",
     "tags": [
-      "Web",
-      "Angular",
-      "Progressive Web Apps"
+      "Web"
     ],
     "badges": [
       {
         "name": "GDE",
-        "description": "Angular Google Developer Expert",
+        "description": "Google Developer Expert for Apps Script and Identity",
         "link": "https://developers.google.com/experts/people/gerard-sans.html"
       }
     ],
@@ -161,59 +110,54 @@
       {
         "icon": "twitter",
         "name": "Twitter",
-        "link": "https://twitter.com/gerardsans"
+        "link": "https://twitter.com/brucemcpherson/"
       },
       {
-        "icon": "medium",
-        "name": "Medium",
-        "link": "https://medium.com/@gerard.sans"
+        "icon": "website",
+        "name": "Website",
+        "link": "www.mcpher.com"
+      },
+      {
+        "icon": "gplus",
+        "link": "https://plus.google.com/+BruceMcpherson",
+        "name": "Google+"
       }
     ]
   },
-  "7": {
-    "id": 7,
-    "featured": false,
-    "name": "Robert Kubis",
-    "title": "Google Cloud Developer Advocate",
+  "5": {
+    "id": 5,
+    "featured": true,
+    "name": "Mark Masterson",
+    "title": "Global Program Manager, Google Launchpad",
     "company": "Google",
     "companyLogo": "/images/logos/google.svg",
-    "photoUrl": "/images/people/robert.jpg",
-    "shortBio": "Robert Kubis is a developer advocate for the Google Cloud Platform based in London, UK, specializing in container, storage, and scalable technologies",
-    "bio": "Robert Kubis is a developer advocate for the Google Cloud Platform based in London, UK, specializing in container, storage, and scalable technologies. Before joining Google, Robert collected over 10 years of experience in software development and architecture. He has driven multiple full-stack application developments at SAP with a passion for distributed systems, containers, databases, and performance optimization. In his spare time he enjoys following tech trends and good restaurants, traveling, and improving his photography skills.",
+    "photoUrl": "/images/people/mark_masterson.jpg",
+    "shortBio": "I work for Google, where I currently help lead one of their startup programs, Google Developers Launchpad.",
+    "bio": "I work for Google, where I currently help lead one of their startup programs, Google Developers Launchpad. Prior to Google, I failed miserably as a startup CTO, and prior to that, spent many years in the mines of the financial services industry, being punished for my sins. I like Frisbee and dislike speaker bios.",
     "tags": [
-      "Cloud"
+      "Entrepreneurship"
     ],
     "badges": [
 
     ],
     "socials": [
       {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/kubisrobert",
-        "name": "LinkedIn"
-      },
-      {
         "icon": "twitter",
-        "link": "https://twitter.com/hostirosti",
-        "name": "Twitter"
-      },
-      {
-        "icon": "medium",
-        "link": "http://medium.com/@hostirosti",
-        "name": "Medium"
+        "name": "Twitter",
+        "link": "https://twitter.com/mastermark/"
       }
     ]
   },
-  "8": {
-    "id": 8,
+  "6": {
+    "id": 6,
     "featured": true,
-    "name": "Phil Nash",
-    "title": "Developer Evangelist",
-    "company": "Twilio",
-    "companyLogo": "/images/logos/twilio.svg",
-    "photoUrl": "/images/people/phil.jpg",
-    "shortBio": "Phil is a developer evangelist for Twilio serving developer communities in London and all over the world.",
-    "bio": "Phil is a developer evangelist for Twilio serving developer communities in London and all over the world. He is a Ruby, JavaScript and Swift developer, Google Developer Expert, blogger, speaker and occasionally a brewer. He can be found hanging out at meetups and conferences, playing with new technologies and APIs or writing open source code.",
+    "name": "Rachel Andrew",
+    "title": "Invited Expert to the CSS WG",
+    "company": "edgeofmyseat.com",
+    "companyLogo": "",
+    "photoUrl": "/images/people/rachel_andrew.jpg",
+    "shortBio": "Rachel Andrew is a front and back-end web developer, author and speaker.",
+    "bio": "Rachel Andrew is a front and back-end web developer, author and speaker. Author or co-author of 22 books including The New CSS Layout, published in October 2017 by A Book Apart. Rachel is co-founder of the CMS Perch, a Google Developer Expert and an Invited Expert to the CSS Working Group.",
     "tags": [
       "Web"
     ],
@@ -222,217 +166,115 @@
     ],
     "socials": [
       {
-        "icon": "twitter",
-        "link": "https://twitter.com/philnash",
-        "name": "Twitter"
+        "icon": "website",
+        "name": "Website",
+        "link": "https://rachelandrew.co.uk"
       },
       {
-        "icon": "medium",
-        "link": "https://philna.sh/",
-        "name": "Medium"
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/rachelandrew"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "featured": true,
+    "name": "Mathias Bynens",
+    "title": "JavaScript whisperer",
+    "company": "Google",
+    "companyLogo": "/images/logos/google.svg",
+    "photoUrl": "/images/people/mathias_bynens.jpg",
+    "shortBio": "Mathias is a web standards enthusiast with a passion for HTML, CSS, JavaScript, Unicode, performance, and security.",
+    "bio": "Mathias is a web standards enthusiast with a passion for HTML, CSS, JavaScript, Unicode, performance, and security.",
+    "tags": [
+      "Web"
+    ],
+    "badges": [
+
+    ],
+    "socials": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "link": "https://mathiasbynens.be/"
       },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/mathias"
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "featured": true,
+    "name": "Juarez Filho",
+    "title": "Google Developer Expert",
+    "company": "",
+    "companyLogo": "",
+    "photoUrl": "/images/people/juarez_filho.jpg",
+    "shortBio": "Passionate about traveling and also to share his adventures with Web Technologies and Firebase",
+    "bio": "Passionate about traveling and also to share his adventures with Web Technologies and Firebase. As a Google Developer Expert, he’s helping communities all over the world to learn, discover and have fun.",
+    "tags": [
+      "Web"
+    ],
+    "badges": [
+
+    ],
+    "socials": [
       {
         "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/philnash",
-        "name": "LinkedIn"
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/juarezpaf"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/juarezpaf"
       },
       {
         "icon": "github",
-        "link": "https://github.com/philnash",
-        "name": "GitHub"
+        "name": "GitHub",
+        "link": "https://github.com/juarezpaf"
       }
     ]
   },
   "9": {
     "id": 9,
     "featured": true,
-    "name": "Mario Viviani",
-    "title": "Technology Evangelist",
-    "company": "Amazon",
-    "companyLogo": "/images/logos/amazon_co_uk.svg",
-    "photoUrl": "/images/people/mario.jpg",
-    "shortBio": "Mario Viviani is Technology Evangelist at Amazon Appstore UK. He was previously awarded the Google Developer Expert title for Android by Google and has spoken at worldwide events.",
-    "bio": "Mario Viviani is Technology Evangelist at Amazon Appstore UK. He started mobile development in 2010, focusing on the Android platform. In 2011 he founded the mobile-focused startup Mariux Apps, developing both consumer-oriented and third-party apps, where he published more than 90 apps and reached more than 12 million total downloads. In 2013 he was awarded by Google of the Google Developer Expert title for Android, and has spoken at worldwide events including Droidcon, Android Developer Days, TEDx and Google I/O. Mario has also been an active part of the startup community. In 2015 he joined Amazon, where as Technology Evangelist he engages with the developer community and companies, presents Amazon newest technologies and ensures mobile app developers are up-to-date on Amazon devices and services.",
+    "name": "Martin Hawksey",
+    "title": "GDE Google Apps Script",
+    "company": "Association for Learning Technology",
+    "companyLogo": "/images/logos/alt.png",
+    "photoUrl": "/images/people/martin_hawksey.jpg",
+    "shortBio": "Martin Hawksey has held advisory roles within the UK EdTech sector and is currently Chief Innovation, Community and Technology Officer at the Association for Learning Technology (ALT)",
+    "bio": "Martin Hawksey has held advisory roles within the UK EdTech sector and is currently Chief Innovation, Community and Technology Officer at the Association for Learning Technology (ALT). In these roles Martin has supported the exploration and adoption of innovative approaches to technology enhanced learning. Martin writes extensively on Google Apps Script, a programming tool integrated into Google Drive, and is a member of Google Developer Experts community.",
     "tags": [
-      "Android"
-    ],
-    "badges": [
-
-    ],
-    "socials": [
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/mariuxtheone",
-        "name": "Twitter"
-      },
-      {
-        "icon": "gplus",
-        "link": "https://plus.google.com/+MarioViviani",
-        "name": "Google+"
-      },
-      {
-        "icon": "linkedin",
-        "link": "https://uk.linkedin.com/in/marioviviani",
-        "name": "LinkedIn"
-      }
-    ]
-  },
-  "10": {
-    "id": 10,
-    "featured": false,
-    "name": "Nick Birnie",
-    "title": "Develper Advocate",
-    "company": "Google",
-    "companyLogo": "/images/logos/google.svg",
-    "photoUrl": "/images/people/nick.jpg",
-    "shortBio": "Nick is a Developer Advocate in Google Ads team.",
-    "bio": "Nick is a Developer Advocate in Google Ads team. He is a computer scientist, AI practitioner, and builder of things. Nick has an MSc in Artificial Intelligence from Edinburgh where he had a particular focus on computer vision. Prior to Google, he was a software engineer at Seebyte.",
-    "tags": [
-      "Cloud"
-    ],
-    "badges": [
-
-    ],
-    "socials": [
-      {
-        "icon": "twitter",
-        "link": "https://twitter.com/nwbirnie",
-        "name": "Twitter"
-      },
-      {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/nick-birnie-0995a758",
-        "name": "LinkedIn"
-      },
-      {
-        "icon": "github",
-        "link": "https://github.com/nwbirnie",
-        "name": "GitHub"
-      }
-    ]
-  },
-  "11": {
-    "id": 11,
-    "featured": false,
-    "name": "Ernesto Jiménez",
-    "title": "Co-founder",
-    "company": "slackline.io",
-    "companyLogo": "/images/logos/slackline.svg",
-    "photoUrl": "/images/people/ernesto.jpg",
-    "shortBio": "Ernesto is a combination of engineer and product manager who has worked on different kinds of products, from webapps to APIs and games in both startups and big corporations.",
-    "bio": "Ernesto is a combination of engineer and product manager who has worked on different kinds of products, from webapps to APIs and games in both startups and big corporations. He sees technology as a tool to build great products that solve real problems for customers.\n\nMost recently, he cofounded slackline.io, enabling efficient collaboration between companies. With just a team of two, so far they have bootstrapped their company and hundreds of companies worldwide are relying on their service. He also likes helping other startups focus on using technology to serve real customers.\n\nBased in London, Ernesto spends spare time contributing to open source projects, building small hacks and rock climbing. He is originally from Spain and studied Computer Science in Spain and Finland.",
-    "tags": [
-      "Cloud"
+      "Web"
     ],
     "badges": [
       {
         "name": "GDE",
-        "description": "Web Technologies Google Developer Expert",
-        "link": "https://developers.google.com/experts/people/ataul-munim"
+        "description": "Google Developer Expert for Google Apps Script",
+        "link": "https://developers.google.com/experts/people/gerard-sans.html"
       }
     ],
     "socials": [
       {
-        "icon": "twitter",
-        "link": "https://twitter.com/ernesto_jimenez",
-        "name": "Twitter"
+        "icon": "Website",
+        "name": "Website",
+        "link": "https://mashe.hawksey.info"
       },
-      {
-        "icon": "gplus",
-        "link": "https://plus.google.com/+ErnestoJimenezCaballero",
-        "name": "Google+"
-      },
-      {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/ernestojimenez",
-        "name": "LinkedIn"
-      },
-      {
-        "icon": "website",
-        "link": "http://ernesto-jimenez.com/",
-        "name": "Website"
-      }
-    ]
-  },
-  "12": {
-    "id": 12,
-    "featured": false,
-    "name": "Luiz Gustavo Martins",
-    "title": "Developer Advocate",
-    "company": "Google",
-    "companyLogo": "/images/logos/google.svg",
-    "photoUrl": "/images/people/gus.jpg",
-    "shortBio": "Gus is a Developer Advocate that helps Google's Partner's apps quality.",
-    "bio": "Gus is a Developer Advocate that helps Google's Partner's apps quality. His areas of interest are Firebase and Fitness Apps.",
-    "tags": [
-      "Android"
-    ],
-    "badges": [
-
-    ],
-    "socials": [
       {
         "icon": "twitter",
         "name": "Twitter",
-        "link": "https://twitter.com/gusthema"
-      }
-    ]
-  },
-  "13": {
-    "id": 13,
-    "featured": false,
-    "name": "Sharif Salah",
-    "title": "Google Cloud Platform Program Manager",
-    "company": "Google",
-    "companyLogo": "/images/logos/google.svg",
-    "photoUrl": "/images/people/sharif.jpg",
-    "shortBio": "Sharif is program manager on the Google Cloud Platform training team. In this role, he focuses on creating and maintaing content for technical training courses.",
-    "bio": "Sharif is program manager on the Google Cloud Platform training team. In this role, he focuses on creating and maintaing content for technical training courses.",
-    "tags": [
-      "Android"
-    ],
-    "badges": [
-
-    ],
-    "socials": [
-      {
-        "icon": "twitter",
-        "name": "Twitter",
-        "link": "https://twitter.com/sharif_salah"
+        "link": "https://twitter.com/mhawksey"
       },
       {
         "icon": "gplus",
         "name": "Google+",
-        "link": "https://plus.google.com/103057053147910473099"
-      }
-    ]
-  },
-  "14": {
-    "id": 14,
-    "featured": false,
-    "name": "Rupert Whitehead",
-    "title": "Develper Program Manager UK & Ireland",
-    "company": "Google",
-    "companyLogo": "/images/logos/google.svg",
-    "photoUrl": "/images/people/rupert.jpg",
-    "shortBio": "Rupert is Developer Relations regional lead for the UK and Ireland at Google.",
-    "bio": "Rupert is Developer Relations regional lead for the UK and Ireland at Google. He looks after the Google Developer Groups, Experts and agency programs and helps developers be more successful with Google technologies. Prior to Google, Rupert worked at Nokia and Symbian.",
-    "tags": [
-      "Community"
-    ],
-    "badges": [
-
-    ],
-    "socials": [
-      {
-        "icon": "twitter",
-        "name": "Twitter",
-        "link": "https://twitter.com/rupertwhitehead"
-      },
-      {
-        "icon": "gplus",
-        "name": "Google+",
-        "link": "https://plus.google.com/+RupertWhitehead"
+        "link": "https://profiles.google.com/mhawksey"
       }
     ]
   }
