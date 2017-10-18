@@ -1,7 +1,7 @@
 {
   "1": {
     "id": 1,
-    "featured": true,
+    "featured": false,
     "name": "Raul Portales",
     "title": "Android Developer",
     "company": "Oneview Healthcare",
@@ -88,7 +88,7 @@
   },
   "4": {
     "id": 4,
-    "featured": true,
+    "featured": false,
     "name": "Bruce Mcpherson",
     "title": "Consultant",
     "company": "Pepada",
@@ -150,7 +150,7 @@
   },
   "6": {
     "id": 6,
-    "featured": true,
+    "featured": false,
     "name": "Rachel Andrew",
     "title": "Invited Expert to the CSS WG",
     "company": "edgeofmyseat.com",
@@ -208,7 +208,7 @@
   },
   "8": {
     "id": 8,
-    "featured": true,
+    "featured": false,
     "name": "Juarez Filho",
     "title": "Google Developer Expert",
     "company": "",
@@ -242,7 +242,7 @@
   },
   "9": {
     "id": 9,
-    "featured": true,
+    "featured": false,
     "name": "Martin Hawksey",
     "title": "GDE Google Apps Script",
     "company": "Association for Learning Technology",
