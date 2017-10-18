@@ -42,7 +42,7 @@
     "companyLogo": "/images/logos/google.svg",
     "photoUrl": "/images/people/ben_weiss.jpg",
     "shortBio": "Ben is a Developer Programs Engineer at the Android Developer Relations team at Google.",
-    "bio": "Ben is a Developer Programs Engineer at the Android Developer Relations team at Google.\n\nHe’s been working with Android since the first public release.\n\nRecently his focus was on Animations, Transitions, Android Instant Apps and Kotlin.",
+    "bio": "Ben is a Developer Programs Engineer at the Android Developer Relations team at Google.\nHe’s been working with Android since the first public release.\nRecently his focus was on Animations, Transitions, Android Instant Apps and Kotlin.",
     "tags": [
       "Android"
     ],
