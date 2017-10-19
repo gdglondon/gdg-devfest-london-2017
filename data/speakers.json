@@ -279,5 +279,29 @@
         "link": "https://profiles.google.com/mhawksey"
       }
     ]
+  },
+  "10": {
+    "id": 10,
+    "featured": true,
+    "name": "Marc Paulina",
+    "title": "User Experience Designer",
+    "company": "Google",
+    "companyLogo": "/images/logos/google.svg",
+    "photoUrl": "/images/people/marc_paulina.jpg",
+    "shortBio": "Marc is a senior designer at Google, focusing on user experience design for the Google Assistant.",
+    "bio": "Marc is a senior designer at Google, focusing on user experience design for the Google Assistant. Marc is interested in blending the superpowers of the social sciences, deep listening and design thinking to inspire human-centered experiences that will be the standard of user experience in the future of smart, ambient assistive computing.",
+    "tags": [
+      "UX"
+    ],
+    "badges": [
+
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/marcpaulina"
+      }
+    ]
   }
 }
