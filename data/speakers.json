@@ -301,5 +301,34 @@
         "link": "https://twitter.com/marcpaulina"
       }
     ]
+  },
+  "11": {
+    "id": 11,
+    "featured": false,
+    "name": "James Munnelly",
+    "title": "Kubernetes Solutions Engineer",
+    "company": "Jetstack",
+    "companyLogo": "/images/logos/jetstack.png",
+    "photoUrl": "/images/people/james_munnelly.jpg",
+    "shortBio": "I'm a Solutions Engineer at Jetstack, a Kubernetes focused consultancy. This involves helping customers bend and break Kubernetes to their will, and training their teams to make best use of it.",
+    "bio": "I'm a Solutions Engineer at Jetstack, a Kubernetes focused consultancy. This involves helping customers bend and break Kubernetes to their will, and training their teams to make best use of it. I've written a number of extensions for Kubernetes, and work on the core codebase in order to make it easier for others to do the same.",
+    "tags": [
+      "Cloud"
+    ],
+    "badges": [
+
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/JamesMunnelly"
+      },
+      {
+        "icon": "github",
+        "name": "GitHub",
+        "link": "https://github.com/munnerz"
+      }
+    ]
   }
 }
