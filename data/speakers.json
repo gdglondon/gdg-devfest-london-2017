@@ -103,7 +103,7 @@
       {
         "name": "GDE",
         "description": "Google Developer Expert for Apps Script and Identity",
-        "link": "https://developers.google.com/experts/people/gerard-sans.html"
+        "link": "https://developers.google.com/experts/people/bruce-mcpherson"
       }
     ],
     "socials": [
@@ -220,7 +220,11 @@
       "Web"
     ],
     "badges": [
-
+      {
+        "name": "GDE",
+        "description": "Google Developer Expert for Web Technologies",
+        "link": "https://developers.google.com/experts/people/juarez-filho"
+      }
     ],
     "socials": [
       {
@@ -257,7 +261,7 @@
       {
         "name": "GDE",
         "description": "Google Developer Expert for Google Apps Script",
-        "link": "https://developers.google.com/experts/people/gerard-sans.html"
+        "link": "https://developers.google.com/experts/people/martin-hawksey"
       }
     ],
     "socials": [
@@ -328,6 +332,107 @@
         "icon": "github",
         "name": "GitHub",
         "link": "https://github.com/munnerz"
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "featured": false,
+    "name": "Javier Ramirez",
+    "title": "Cloud Engineer",
+    "company": "teowaki",
+    "companyLogo": "",
+    "photoUrl": "/images/people/javier_ramirez.jpg",
+    "shortBio": "Cloud and big data engineer with a past in software development. Co-founder of teowaki, a consultancy company specialized in GCP.",
+    "bio": "Cloud and big data engineer with a past in software development. Co-founder of teowaki, a consultancy company specialized in GCP. I've been a Google Developer Expert in Cloud for over 4 years and a GCP trainer for over 2.",
+    "tags": [
+      "Cloud"
+    ],
+    "badges": [
+
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/supercoco9"
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "featured": true,
+    "name": "Sebastian Benz",
+    "title": "Developer Advocate",
+    "company": "Google",
+    "companyLogo": "/images/logos/google.svg",
+    "photoUrl": "/images/people/sebastian_benz.jpg",
+    "shortBio": "Sebastian works with developers around the world helping them build great experiences for web and Android. He created and maintains ampbyexample.com.",
+    "bio": "Sebastian works with developers around the world helping them build great experiences for web and Android. He created and maintains ampbyexample.com.",
+    "tags": [
+      "Web"
+    ],
+    "badges": [
+
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/sebabenz"
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "featured": false,
+    "name": "Emma Guy",
+    "title": "Android Engineer",
+    "company": "Monzo",
+    "companyLogo": "/images/logos/monzo.svg",
+    "photoUrl": "/images/people/emma_guy.jpg",
+    "shortBio": "Emma is currently an Android Engineer at Monzo, building a better bank. Prior to this, she was at couple of app agencies, creating a number of different apps for a wide variety of clients",
+    "bio": "Emma is currently an Android Engineer at Monzo, building a better bank. Prior to this, she was at couple of app agencies, creating a number of different apps for a wide variety of clients. She began her career writing enterprise software at a couple of different companies before tinkering enough with Android in her free time to know she wanted to pursue it full time.",
+    "tags": [
+      "Android"
+    ],
+    "badges": [
+
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/emmaguy"
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "featured": false,
+    "name": "Luba Elliott",
+    "title": "Creative AI Researcher",
+    "company": "",
+    "companyLogo": "",
+    "photoUrl": "/images/people/luba_elliott.jpg",
+    "shortBio": "Luba Elliott is a curator, artist and researcher looking at artificial intelligence in the creative industries.",
+    "bio": "Luba Elliott is a curator, artist and researcher looking at artificial intelligence in the creative industries. She is currently working to educate and engage the broader public about the latest developments in creative AI through monthly meetups, talks and tech demonstrations. Prior to that, she worked in venture capital and art startups.",
+    "tags": [
+      "Cloud"
+    ],
+    "badges": [
+
+    ],
+    "socials": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "link": "http://elluba.com/"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/elluba"
       }
     ]
   }
