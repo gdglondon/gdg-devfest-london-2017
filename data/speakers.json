@@ -1,7 +1,7 @@
 {
   "1": {
     "id": 1,
-    "featured": false,
+    "featured": true,
     "name": "Raul Portales",
     "title": "Android Developer",
     "company": "Oneview Healthcare",
@@ -88,7 +88,7 @@
   },
   "4": {
     "id": 4,
-    "featured": false,
+    "featured": true,
     "name": "Bruce Mcpherson",
     "title": "Consultant",
     "company": "Pepada",
@@ -150,7 +150,7 @@
   },
   "6": {
     "id": 6,
-    "featured": false,
+    "featured": true,
     "name": "Rachel Andrew",
     "title": "Invited Expert to the CSS WG",
     "company": "edgeofmyseat.com",
@@ -208,7 +208,7 @@
   },
   "8": {
     "id": 8,
-    "featured": false,
+    "featured": true,
     "name": "Juarez Filho",
     "title": "Google Developer Expert",
     "company": "",
@@ -246,7 +246,7 @@
   },
   "9": {
     "id": 9,
-    "featured": false,
+    "featured": true,
     "name": "Martin Hawksey",
     "title": "GDE Google Apps Script",
     "company": "Association for Learning Technology",
@@ -308,7 +308,7 @@
   },
   "11": {
     "id": 11,
-    "featured": false,
+    "featured": true,
     "name": "James Munnelly",
     "title": "Kubernetes Solutions Engineer",
     "company": "Jetstack",
@@ -337,7 +337,7 @@
   },
   "12": {
     "id": 12,
-    "featured": false,
+    "featured": true,
     "name": "Javier Ramirez",
     "title": "Cloud Engineer",
     "company": "teowaki",
@@ -385,7 +385,7 @@
   },
   "14": {
     "id": 14,
-    "featured": false,
+    "featured": true,
     "name": "Emma Guy",
     "title": "Android Engineer",
     "company": "Monzo",
@@ -409,7 +409,7 @@
   },
   "15": {
     "id": 15,
-    "featured": false,
+    "featured": true,
     "name": "Luba Elliott",
     "title": "Creative AI Researcher",
     "company": "",
@@ -433,6 +433,30 @@
         "icon": "twitter",
         "name": "Twitter",
         "link": "https://twitter.com/elluba"
+      }
+    ]
+  },
+  "16": {
+    "id": 16,
+    "featured": true,
+    "name": "Gen Ashley",
+    "title": "",
+    "company": "Women Who Code / Women Techmakers",
+    "companyLogo": "",
+    "photoUrl": "/images/people/gen.jpg",
+    "shortBio": "Gen is the Director of Women Who Code London and is a very active leader in the Tech community in London.",
+    "bio": "Gen is the Director of Women Who Code London and is a very active leader in the Tech community in London. Aside from her involvement with Women Who Code she is a Lead for Google Women Techmakers London, NASA Space Apps Challenge London and Twitter Developer Community London. She is also part of the leadership committee for Ada's List (a network for women in technology). She is co-organiser of COED:CODE, OpenTechSchool London and London Game Developers. She was the Head of Developer Outreach at Skills Matter and a former VP / Business Development Manager / Project Manager at Citigroup. In 2016 Gen helped lead Anita Borg Institute London and was actively instrumental in delivering the very first 1-Day Grace Hopper Conference in Europe which was held in London.",
+    "tags": [
+      "Android"
+    ],
+    "badges": [
+
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/coderinheels"
       }
     ]
   }
