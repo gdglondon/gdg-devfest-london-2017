@@ -12,9 +12,6 @@
     "tags": [
       "Android"
     ],
-    "badges": [
-
-    ],
     "socials": [
       {
         "icon": "twitter",
@@ -46,9 +43,6 @@
     "tags": [
       "Android"
     ],
-    "badges": [
-
-    ],
     "socials": [
       {
         "icon": "twitter",
@@ -69,9 +63,6 @@
     "bio": "Surma is an engineer working with the Chrome team. He likes to cut himself on the bleeding edge, goes full-stack every once in a while and prefers good code over functional one.",
     "tags": [
       "Web"
-    ],
-    "badges": [
-
     ],
     "socials": [
       {
@@ -137,9 +128,6 @@
     "tags": [
       "Entrepreneurship"
     ],
-    "badges": [
-
-    ],
     "socials": [
       {
         "icon": "twitter",
@@ -160,9 +148,6 @@
     "bio": "Rachel Andrew is a front and back-end web developer, author and speaker. Author or co-author of 22 books including The New CSS Layout, published in October 2017 by A Book Apart. Rachel is co-founder of the CMS Perch, a Google Developer Expert and an Invited Expert to the CSS Working Group.",
     "tags": [
       "Web"
-    ],
-    "badges": [
-
     ],
     "socials": [
       {
@@ -189,9 +174,6 @@
     "bio": "Mathias is a web standards enthusiast with a passion for HTML, CSS, JavaScript, Unicode, performance, and security.",
     "tags": [
       "Web"
-    ],
-    "badges": [
-
     ],
     "socials": [
       {
@@ -295,9 +277,6 @@
     "tags": [
       "UX"
     ],
-    "badges": [
-
-    ],
     "socials": [
       {
         "icon": "twitter",
@@ -318,9 +297,6 @@
     "bio": "I'm a Solutions Engineer at Jetstack, a Kubernetes focused consultancy. This involves helping customers bend and break Kubernetes to their will, and training their teams to make best use of it. I've written a number of extensions for Kubernetes, and work on the core codebase in order to make it easier for others to do the same.",
     "tags": [
       "Cloud"
-    ],
-    "badges": [
-
     ],
     "socials": [
       {
@@ -348,9 +324,6 @@
     "tags": [
       "Cloud"
     ],
-    "badges": [
-
-    ],
     "socials": [
       {
         "icon": "twitter",
@@ -371,9 +344,6 @@
     "bio": "Sebastian works with developers around the world helping them build great experiences for web and Android. He created and maintains ampbyexample.com.",
     "tags": [
       "Web"
-    ],
-    "badges": [
-
     ],
     "socials": [
       {
@@ -396,9 +366,6 @@
     "tags": [
       "Android"
     ],
-    "badges": [
-
-    ],
     "socials": [
       {
         "icon": "twitter",
@@ -419,9 +386,6 @@
     "bio": "Luba Elliott is a curator, artist and researcher looking at artificial intelligence in the creative industries. She is currently working to educate and engage the broader public about the latest developments in creative AI through monthly meetups, talks and tech demonstrations. Prior to that, she worked in venture capital and art startups.",
     "tags": [
       "Cloud"
-    ],
-    "badges": [
-
     ],
     "socials": [
       {
@@ -449,14 +413,133 @@
     "tags": [
       "Android"
     ],
-    "badges": [
-
-    ],
     "socials": [
       {
         "icon": "twitter",
         "name": "Twitter",
         "link": "https://twitter.com/coderinheels"
+      }
+    ]
+  },
+  "17": {
+    "id": 17,
+    "featured": true,
+    "name": "Swav Kulinski",
+    "title": "Lead Android Developer",
+    "company": "The App Business",
+    "companyLogo": "/images/logos/the_app_business.svg",
+    "photoUrl": "/images/people/swav_kulinski.jpg",
+    "shortBio": "Coding since 1986, currently Android evangelist, leading a Droid team at The App Business. Swav's interest is around evolution of technology, spotting early distruptors and finding ways how to adopt them.",
+    "bio": "Coding since 1986, currently Android evangelist, leading a Droid team at The App Business. Swav's interest is around evolution of technology, spotting early distruptors and finding ways how to adopt them.",
+    "tags": [
+      "Android"
+    ],
+    "socials": [
+      {
+        "icon": "github",
+        "name": "GitHub",
+        "link": "https://github.com/swavkulinski"
+      },
+      {
+        "icon": "stackoverflow",
+        "name": "StackOverflow",
+        "link": "https://stackoverflow.com/users/2337538/robotoaster"
+      },
+      {
+        "icon": "website",
+        "name": "Website",
+        "link": "http://www.theappbusiness.com/team/swav-kulinski"
+      }
+    ]
+  },
+  "18": {
+    "id": 18,
+    "featured": false,
+    "name": "Giovanni Vacanti",
+    "title": "Physicist, Data Scientist",
+    "company": "Seldon technologies",
+    "companyLogo": "/images/logos/seldon.png",
+    "photoUrl": "",
+    "shortBio": "After obtaining a master degree in physics at University of Palermo, Italy, Giovanni joined the graduate program at Centre for quantum technologies, National University of Singapore, where he obtained a Phd in Theoretical physics in 2013.",
+    "bio": "After obtaining a master degree in physics at University of Palermo, Italy, Giovanni joined the graduate program at Centre for quantum technologies, National University of Singapore, where he obtained a Phd in Theoretical physics in 2013. Until 2015, he worked as a postdoctoral researcher in theoretical quantum physics at Institut Neel, Grenoble, France. Since 2016 he works as a Data scientist at Seldon technologies , developing  machine learning solutions for various use cases.",
+    "tags": [
+      "Cloud"
+    ]
+  },
+  "19": {
+    "id": 19,
+    "featured": true,
+    "name": "Alessia Sannazzaro",
+    "title": "Entrepreneur",
+    "company": "Code & Wander",
+    "companyLogo": "/images/logos/code_and_wander.svg",
+    "photoUrl": "/images/people/alessia_sannazzaro.jpg",
+    "shortBio": "Alessia is the co-founder of Code & Wander, a digital product studio with a travelling twist.",
+    "bio": "Alessia is the co-founder of Code & Wander, a digital product studio with a travelling twist. After graduating in Design and Innovation, Alessia entered the startup scene and gained recognition for her success in the NACUE Varsity Pitch, Get In The Ring and the London Entrepreneurs Challenge. Since then she’s worked in digital agencies collaborating with top brands to create internal and external products and strategies.",
+    "tags": [
+      "Entrepreneurship"
+    ],
+    "socials": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "link": "http://codeandwander.com/"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "link": "https://facebook.com/codeandwander"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/codeandwander"
+      },
+      {
+        "icon": "instagram",
+        "name": "Instagram",
+        "link": "https://instagram.com/codeandwander"
+      },
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/alessia-sannazzaro"
+      }
+    ]
+  },
+  "20": {
+    "id": 20,
+    "featured": true,
+    "name": "Aygul Zagidullina",
+    "title": "Google Launchpad Mentor",
+    "company": "GDG/WTM London",
+    "companyLogo": "/images/logos/gdg_london.svg",
+    "photoUrl": "/images/people/aygul.jpg",
+    "shortBio": "Aygul is an experienced community manager and advocate for women in tech. Ex-Googler. PhD in quantum chemistry.",
+    "bio": "Aygul is an experienced community manager and advocate for women in tech. Ex-Googler. PhD in quantum chemistry. Enthusiastic serial volunteer who is involved in many innovative projects (Google Launchpad Mentor for marketing/ growth, Google Developer Group and Women Techmakers Lead for London, Google Top Contributor, a distinguished international speaker). Early adopter. Technology admirer. Named as one of The NEXT 100 Top Influencers of the European Digital Industry in 2013.",
+    "tags": [
+      "Entrepreneurship"
+    ],
+    "socials": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "link": "http://www.aygul.co/"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/aygul"
+      },
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/aygulzagidullina"
+      },
+      {
+        "icon": "gplus",
+        "name": "Google+",
+        "link": "https://plus.google.com/+AygulZagidullina"
       }
     ]
   }
