@@ -121,7 +121,10 @@
                     session.track = day.tracks[k];
                   }
                   session.startTime = timeslot.startTime;
-                  session.endTime = subSessionsLen > 1 ? this._getEndTime(day.date, timeslot.startTime, timeslot.endTime, subSessionsLen, l + 1) : timeslot.endTime;
+
+                  var timeslotEndTime = timeslot.endTime.length > 1 ? timeslot.endTime[k] : timeslot.endTime;
+                  session.endTime = subSessionsLen > 1 ? this._getEndTime(day.date, timeslot.startTime, timeslot.endTime, subSessionsLen, l + 1) : timeslotEndTime;
+
                   session.dateReadable = day.dateReadable;
                   this._scheduleRaw[i].timeslots[j].sessions[k][l] = session;
                 }
