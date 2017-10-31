@@ -5,197 +5,342 @@
     "description": "Arrival / Registration / Breakfast",
     "image": "/images/backgrounds/registration.jpg"
   },
-  "102": {
-    "id": 102,
-    "title": "Coffee break",
+  "111": {
+    "id": 111,
+    "title": "Coffee break for the mobile track",
     "description": "Refresh yourself with a coffee for the next session!",
     "image": "/images/backgrounds/coffee-break.jpg"
   },
-  "103": {
-    "id": 103,
-    "title": "Lunch",
+  "112": {
+    "id": 112,
+    "title": "Coffee break for the web track",
+    "description": "Refresh yourself with a coffee for the next session!",
+    "image": "/images/backgrounds/coffee-break.jpg"
+  },
+  "113": {
+    "id": 113,
+    "title": "Coffee break for the cloud track",
+    "description": "Refresh yourself with a coffee for the next session!",
+    "image": "/images/backgrounds/coffee-break.jpg"
+  },
+  "114": {
+    "id": 114,
+    "title": "Coffee break for the digital mezze track",
+    "description": "Refresh yourself with a coffee for the next session!",
+    "image": "/images/backgrounds/coffee-break.jpg"
+  },
+  "121": {
+    "id": 121,
+    "title": "Lunch for the mobile track",
     "description": "Great opportunity for networking and recharging yourself.",
     "image": "/images/backgrounds/lunch.jpg"
   },
-  "104": {
-    "id": 104,
-    "title": "Networking and Drinks",
+  "122": {
+    "id": 122,
+    "title": "Lunch for the web track",
+    "description": "Great opportunity for networking and recharging yourself.",
+    "image": "/images/backgrounds/lunch.jpg"
+  },
+  "123": {
+    "id": 123,
+    "title": "Lunch for the cloud track",
+    "description": "Great opportunity for networking and recharging yourself.",
+    "image": "/images/backgrounds/lunch.jpg"
+  },
+  "124": {
+    "id": 124,
+    "title": "Lunch for the digital mezze track",
+    "description": "Great opportunity for networking and recharging yourself.",
+    "image": "/images/backgrounds/lunch.jpg"
+  },
+  "131": {
+    "id": 131,
+    "title": "Networking and drinks",
     "description": "Relaxing after a great day with drinks and networking with other passionate developers.",
     "image": "/images/backgrounds/drinks.jpg"
   },
-  "111": {
-    "id": 111,
-    "title": "Kick off",
-    "description": "Official start of the conference. Greetings from the organizers.",
-    "speakers": [
-      1314
-    ]
+  "141": {
+    "id": 141,
+    "title": "Welcome to the mobile track",
+    "description": "Official start of the conference. Greetings from the organizers."
   },
-  "112": {
-    "id": 112,
-    "title": "Wrap up",
-    "description": "End of the conference, beginning of the networking and drinks.",
-    "speakers": [
-      1314
-    ]
+  "142": {
+    "id": 142,
+    "title": "Welcome to the web track",
+    "description": "Official start of the conference. Greetings from the organizers."
+  },
+  "143": {
+    "id": 143,
+    "title": "Welcome to the cloud track",
+    "description": "Official start of the conference. Greetings from the organizers."
+  },
+  "144": {
+    "id": 144,
+    "title": "Welcome to the digital mezze track",
+    "description": "Official start of the conference. Greetings from the organizers."
+  },
+  "151": {
+    "id": 151,
+    "title": "Mobile track wrap up",
+    "description": "End of the conference, beginning of the networking and drinks."
+  },
+  "152": {
+    "id": 152,
+    "title": "Web track wrap up",
+    "description": "End of the conference, beginning of the networking and drinks."
+  },
+  "153": {
+    "id": 153,
+    "title": "Cloud track wrap up",
+    "description": "End of the conference, beginning of the networking and drinks."
+  },
+  "154": {
+    "id": 154,
+    "title": "Digital mezze track wrap up",
+    "description": "End of the conference, beginning of the networking and drinks."
   },
   "201": {
     "id": 201,
-    "title": "Intro to AMP (Accelerated Mobile Pages)",
-    "description": "AMP HTML is a way to build web pages for static content that render with reliable, fast performance. It is our attempt at fixing what many perceive as painfully slow page load times – especially when reading content on the mobile web.\n\nIn this talk we are going to learn what is AMP and why AMP might be a good solution for you.",
+    "title": "Android Things 101",
+    "description": "In this talk Raul will explain the basic concepts of Android Things (Android for IoT), explain how to setup the development environment for it and show how easy is to work with the different peripherals. For this, he'll use the most popular Dev Kit for Android Things: A Raspberry Pi with a Rainbow HAT (which has lots of sensors, input and output devices).",
     "speakers": [
-      132
+      1
     ],
     "tags": [
-      "Web"
+      "Android"
     ]
   },
   "202": {
     "id": 202,
-    "title": "Putting the P in Progressive Web Apps",
-    "description": "Progressive Web Apps should work everywhere for every user. But what happens when the technology and APIs are not available for your users? In this talk we will show you how you can think about and build sites that work everywhere.",
+    "title": "Android Instant Apps",
+    "description": "This session will introduce the audience to the concept of Android Instant Apps. It highlights some tools that can be used and demonstrates what to keep in mind when developing an instant app.",
     "speakers": [
-      135
+      2
     ],
     "tags": [
-      "Web"
+      "Android"
     ]
   },
   "203": {
     "id": 203,
-    "title": "Migrate To Progressive Web Apps",
-    "description": "This Codelab will teach you how to rapidly migrate an existing, desktop-only site to a Progressive Web App to support amazing new web features like install, push and offline.",
-    "speakers": [
-      135
-    ],
+    "title": "Profile, debug, analyze",
+    "description": "TBA",
     "tags": [
-      "Web"
+      "Android"
     ]
   },
   "204": {
     "id": 204,
-    "title": "Thinking Offline",
-    "description": "Building a progressively enhanced, offline capable web app requires a different way of thinking. We'll look at building an app offline first and see what lessons we can learn.",
+    "title": "Using Kotlin in production",
+    "description": "Kotlin has fast become the new hotness in the Android world - but what is the reality of adding it to an app which is rapidly being built for a fast growing startup? In this talk we'll cover how we went about adding Kotlin to the Monzo app, why we made those choices and how it went.",
     "speakers": [
-      138
+      14
     ],
     "tags": [
-      "Web"
+      "Android"
     ]
   },
   "205": {
     "id": 205,
-    "title": "The amazing Angular 2 Router",
-    "description": "Angular 2 comes with a new router. We will review its main features and show how we can use navigation guards, secure sections, use nested routes and do lazy load while quickly building a prototype for a very special client!",
+    "title": "AR Core - An Introduction",
+    "description": "With more than two billion active devices, Android is the largest mobile platform in the world. And for the past nine years, Google have worked to create a rich set of tools, frameworks and APIs that deliver developers’ creations to people everywhere.   In this talk, we'll go through some of the features of AR Core.",
     "speakers": [
-      136
+      16
+    ],
+    "tags": [
+      "Android"
+    ]
+  },
+  "206": {
+    "id": 206,
+    "title": "I like the way you move",
+    "description": "Good use of animations can not only help make your app’s UI more intuitive, but can also build emotional attachment with your users. Mark Allison will explore the subtleties of why some animations work where others don’t; The distinct components of effective animation; and, of course, some detailed worked examples of how to create amazing Android animations.",
+    "tags": [
+      "Android"
+    ]
+  },
+  "207": {
+    "id": 207,
+    "title": "Flutter - evolving mobile",
+    "description": "Mobile platforms such as iOS and Android are almost 10 years old. They’ve matured becoming more stable and richer in features, creating a market bigger than their creator’s expectations. Along with their stunning success, customer’s appetite for impressive skilfully tailored user experiences has grown as well. \n\nBut with the growing demand for quality, is there any way to make mobile development easier whilst still delivering stunning apps? What about making development more pleasant; is that really possible?\n\nFlutter is a new platform for mobile development which is ready to change the way we develop high performance, customised mobile applications. Built from the ground up on learnings taken from existing platforms, it rethinks the way UI works. It gives absolute freedom in creating user experiences, regardless of the underlying target platform.",
+    "speakers": [
+      17
+    ],
+    "tags": [
+      "Android"
+    ]
+  },
+  "301": {
+    "id": 301,
+    "title": "WordPress + PWA = 💝",
+    "description": "About 50% of sites in the web are powered by Content Management Systems; and that trend is growing. Integrating Progressive Technologies into the workflow of platforms such as WordPress and other CMSes is of paramount importance for ensuring that users get an awesome experience in these environments. In this talk we will discuss the challenges involved in the integration of progressive technologies with CMSes in general and WordPress in particular, and present a working proof of concept of how such an integration would work in the context of WordPress.",
+    "speakers": [
+      3
     ],
     "tags": [
       "Web"
     ]
   },
-  "301": {
-    "id": 301,
-    "title": "Developing Media Streaming Apps for TV the Easiest Way",
-    "description": "Android development is not just about mobile devices anymore, it scaled up from mobile devices to the TV screen. Developers have now the occasion to start building for a brand new use case: the 10-foot experience. In this session, we cover what's needed to bring your Android app to the living room: we’ll dive into all the tools required to create high performing Media Streaming apps and understand how to take advantage of the big TV screen while using new UI/UX patterns and how to run your first Android App for TV on Amazon Fire TV.",
-    "speakers": [
-      139
-    ],
-    "tags": [
-      "Android"
-    ]
-  },
   "302": {
     "id": 302,
-    "title": "ClassyShark - APK analysis with ClassyShark",
-    "description": "https://github.com/google/android-classyshark. I am Boris Farber, Developer Advocate at Google, focusing on Android data intensive apps. I want to show how using ClassyShark you can analyse and troubleshoot the most painful problems around runtime failures.\n\nObfuscation, Dependencies, Multidex, Native code",
+    "title": "Solving Layout Problems with CSS Grid and Friends",
+    "description": "CSS Grid Layout launched into the majority of our browsers in 2017. As designers and developers have started to use Grid I’ve been answering a lot of questions about the specification. In this talk I’ll answer some of the common questions about Grid Layout in production - from dealing with old browsers to what might come next in CSS for layout. There will be plenty of practical tips for you to use in your projects today.",
     "speakers": [
-      132
+      6
     ],
     "tags": [
-      "Android"
+      "Web"
     ]
   },
   "303": {
     "id": 303,
-    "title": "Introduction to Firebase and Codelab",
-    "description": "Firebase -- 15 technologies that will help you Develop, Grow and Earn from your mobile apps, and an Analytics product that can be used to bring them all together.",
+    "title": "V8 internals for JavaScript developers",
+    "description": "This presentation demonstrates how learning just a little bit about JavaScript engine internals can help you improve the run-time performance of your JavaScript code — not just in V8 specifically, but across all JavaScript engines!",
     "speakers": [
-      1312
+      7
     ],
     "tags": [
-      "Android"
+      "Web"
     ]
   },
   "304": {
     "id": 304,
-    "title": "A beginners guide to machine learning for mobile developers",
-    "description": "This introductory talk provides an overview of machine learning, followed by demos of some of the technologies that can be used to implement machine learning related features in mobile applications. The talk also includes a brief case study of a sample application to demonstrate how different tools can be applied to implement machine learning related features in a mobile application.",
+    "title": "Let Firebase help you to build better Web apps",
+    "description": "What is the first thing that comes to your mind when you are starting to develop your product? You need to think about all sort of features. How you are going to grow your app. Engage your audience and make money in the process, right?\n\nWhat if you could choose a platform to build your app with confidence, without the need of managing infrastructure, trusted by companies like The New York Times, The Economist, Shazam and much more. Firebase gives you the tools and infrastructure you need to build better apps and grow businesses. Join this talk and learn how to overcome the challenges of build extraordinary web apps using Firebase.",
     "speakers": [
-      1313
+      8
     ],
     "tags": [
-      "Android"
+      "Web"
     ]
   },
   "305": {
     "id": 305,
-    "title": "Android is for one user",
-    "description": "An overview describing what accessibility means and how to develop an Android app for as many individual users as you can. We cover common design patterns in Android, discussing what function they serve and understanding when and why to substitute them for alternative interfaces. A working code example is provided, showing these principles in action, and demonstrating workflows which can be used to build accessible apps.",
+    "title": "AMP: A Library for Beautiful and Responsive Sites",
+    "description": "It is common knowledge that Accelerated Mobile Pages (AMP) are fast. Less commonly known is that AMP is also a fantastic library for building user-friendly, responsive web sites. I'm going to talk about how AMP makes it easy to create beautiful interactive websites.",
     "speakers": [
-      133
+      13
     ],
     "tags": [
-      "Android"
+      "Web"
+    ]
+  },
+  "306": {
+    "id": 306,
+    "title": "Designing an empathic Google Assistant",
+    "description": "We are in an age of blending horizons and blurring devices brought alive by ambient assistive companions. Everything is talking, everything has a brain...and we respond to these \"presences\" with many of the same feelings and reactions as if they were sentient beings. It's not our fault. It's 150,000 years of human hardwiring telling us that a speaking thing is not just an “it,” it’s alive and aware and connecting with us. With “ears” and “eyes” sensing, it becomes even more emotionally compelling and/or complex.\n\nHow might we design for Emotional Intelligence to make people feel that these experiences are useful, familiar, comfortable, positive, supportive and trust-worthy.",
+    "speakers": [
+      10
+    ],
+    "tags": [
+      "Web"
     ]
   },
   "401": {
     "id": 401,
-    "title": "Building Node.js Applications on GCP",
-    "description": "",
+    "title": "Google Apps Script - gateway to Google APIS",
+    "description": "Apps Script is Google's language for automating G Suite. It is based on JavaScript, runs in the cloud, and has native  access to the underlying APIS that power G Suite Apps. It also provides a powerful serverless environment for working in an authenticated environment to connect to other services and APIS. Apps Script simplifies integrating G Suite apps with other APIS, and is an ideal environment for mashing up prototypes in a startup environment, even if the end state platform is ends up being something other than G Suite.",
     "speakers": [
-      131
+      4
     ],
     "tags": [
-      "Cloud"
+      "Entrepreneurship"
     ]
   },
   "402": {
     "id": 402,
-    "title": "Learning Go - Build your first Slack app using Go and App Engine",
-    "description": "Are you curious about Go? In this talk, we will see how easy it is to create a simple Slack app with Go and deploy it using App Engine.",
+    "title": "Startup Tech: how not to suck as CTO",
+    "description": "Technology decisions at a startup can make, or break, their success. Mastering the art of making those choices isn't easy, and arguably, knowing how to code makes it harder. We'll talk about that, and offer some ideas to help mitigate the risks.",
     "speakers": [
-      1311
+      5
     ],
     "tags": [
-      "Cloud"
+      "Entrepreneurship"
     ]
   },
   "403": {
     "id": 403,
-    "title": "Improve your App UX with one model processing insights from logs (batch) and real-time activity streams",
-    "description": "In this talk you will learn about Apache Beam (incubating). A project that came out of more than 10 years of experience with big data processing at Google. We will show you how you can improve your Apps, Web or Mobile by capturing and processing data from batch and streams in one model and run it on Google's managed Dataflow service. In this talk we'll demonstrate Dataflow’s capabilities through a real-time demo with practical insights on how to manage and visualize streams of data.",
+    "title": "The Google Analytics of Things",
+    "description": "Did you know Google Analytics isn't just for website tracking? Since launching Google Analytics in November 2005 the Internet has radically changed moving away from static content to fully interactive web applications. Google Analytics has also radically changed moving away from website pageviews allowing you to analyse virtually any event on any platform. This talk is designed to highlight some of the Google Analytics features available to developers you may not be aware of inspiring you to look at your analytics problems and opportunities in new ways. For example, we look at how Google Analytics can be used as part of the Internet of Things, using low cost computing like Raspberry Pis for recording and analysing everything from sensor data to physical switches. We also look at bridging offline and asynchronous tracking sending measurement data in batches when connectivity is reestablished as well as pushing data from third party APIs into Google Analytics using free tools. After this talk you'll hopefully look at Google Analytics in a completely different way.",
     "speakers": [
-      137
+      9
+    ],
+    "tags": [
+      "Entrepreneurship"
+    ]
+  },
+  "404": {
+    "id": 404,
+    "title": "Idea to Launch",
+    "description": "This talk explores Alessia’s entrepreneurial journey and what she learned bringing ideas to life. After co-founding her own digital product studio Code & Wander and working with top brands, she will share her experiences and discuss what it takes to go from an idea to launch.",
+    "speakers": [
+      19
+    ],
+    "tags": [
+      "Entrepreneurship"
+    ]
+  },
+  "405": {
+    "id": 405,
+    "title": "Beta to Live",
+    "description": "With the experience of launching products at her own digital agency, Code & Wander, Alessia discusses the steps required to move a product from beta to live. From testing to constant iterations she outlines the dos and don’ts.",
+    "speakers": [
+      19
+    ],
+    "tags": [
+      "Entrepreneurship"
+    ]
+  },
+  "406": {
+    "id": 406,
+    "title": "Customer Acquisition: Navigating Your Way to Success",
+    "description": "TBA",
+    "speakers": [
+      20
+    ],
+    "tags": [
+      "Entrepreneurship"
+    ]
+  },
+  "501": {
+    "id": 501,
+    "title": "Kubernetes: hyper-scale computing for the masses",
+    "description": "Kubernetes was started in 2014 by Google, based off their experience running production systems at huge scale for more than 10 years. A completely open source project, Kubernetes helps orchestrate and manage applications running across 5 servers, or 5,000.\n\nBy providing a meaningful API to interact with, it's possible to deploy code rapidly and consistently, and even to multiple cloud platforms at a time. This helps teams focus on their own applications, instead of the systems on which they run.\n\nIn this talk I'll introduce Kubernetes and show how easy it is to deploy a Docker-ized application to GKE, Google's managed Kubernetes-as-a-Service.",
+    "speakers": [
+      11
     ],
     "tags": [
       "Cloud"
     ]
   },
-  "404": {
-    "id": 404,
-    "title": "Hackathon Demo",
-    "description": "",
+  "502": {
+    "id": 502,
+    "title": "End-to-end streaming analytics on Google Cloud Platform",
+    "description": "Do you think you can write a system to get data from sensors across the world, do real time analytics, and display the data on a dashboard in under 100 lines of code? Would you like to add some monitoring and autoscaling too? And what about serverless? In this talk I'll show you all the technologies GCP offers to build such a system reliably and at scale.",
+    "speakers": [
+      12
+    ],
     "tags": [
       "Cloud"
     ]
   },
-  "405": {
-    "id": 405,
-    "title": "TensorFlow for Poets codelab",
-    "description": "TensorFlow is a an open source library for numerical computation, specializing in machine learning applications. In this codelab, you will learn how to install and run TensorFlow on a single machine, and will train a simple classifier to classify images of flowers.",
+  "503": {
+    "id": 503,
+    "title": "Creative Applications of Machine Learning",
+    "description": "Over the past couple of years, there has been increasing interest in applying the latest advances in machine learning to creative projects in art, music, film, theatre and beyond. From Google's DeepDream and style transfer to the world's first computer-generated musical playing in London's West End, more and more creative AI projects are moving beyond the world of research and academia into the public eye. This talk will give an overview of creative projects using RNNs, ConvNets, GANs and other models.",
     "speakers": [
-      1310, 1313
+      15
+    ],
+    "tags": [
+      "Cloud"
+    ]
+  },
+  "504": {
+    "id": 504,
+    "title": "An implementation of generalised curriculum learning using Tensorflow and Keras",
+    "description": "In this talk, we focus on a technique that allow a machine learning model to minimize two different cost functions (each representing a different task) together, by gradually switching between the tasks. This technique can be thought as a generalisation of curriculum learning, and can in principle be applied to n tasks. We present the results of an experiment conducted on the MNIST dataset and implemented using Tensorflow and Keras.",
+    "speakers": [
+      18
     ],
     "tags": [
       "Cloud"

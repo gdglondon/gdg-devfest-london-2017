@@ -3,137 +3,104 @@
     "date": "2017-11-11",
     "dateReadable": "11 November",
     "tracks": [
-        {
-          "title": "3rd Floor - Event space"
-        }, {
-          "title": "Ground Floor"
-        }, {
-          "title": "3rd Floor - Project Space"
-        }
-      ],
+      {
+        "title": "Mobile Track"
+      }, {
+        "title": "Web Track"
+      }, {
+        "title": "Cloud Track"
+      }, {
+        "title": "Digital Mezze Track"
+      }
+    ],
     "timeslots": [
       {
-        "startTime": "09:30",
-        "endTime": "10:15",
+        "startTime": "10:30",
+        "endTime": ["10:45"],
         "track":  {
           "title": "Campus Cafe"
         },
         "sessions": [
-            [101]
+          [101]
         ]
-    }, {
-        "startTime": "10:15",
-        "endTime": "10:45",
-        "track":  {
-          "title": "Ground Floor and 3rd Floor - Event space"
-        },
-        "sessions": [
-            [111]
-        ]
-    }, {
+      }, {
         "startTime": "10:45",
-        "endTime": "11:00",
-        "track":  {
-          "title": "Campus Cafe"
-        },
+        "endTime": ["11:00"],
         "sessions": [
-            [102]
+          [141],
+          [142],
+          [143],
+          [144]
         ]
-    }, {
+      }, {
         "startTime": "11:00",
-        "endTime": "11:45",
+        "endTime": ["11:40", "11:35"],
         "sessions": [
-            [201],
-            [301],
-            [401]
+          [204],
+          [301]
         ]
-    }, {
+      }, {
         "startTime": "11:45",
-        "endTime": "12:00",
+        "endTime": ["12:25"],
+        "sessions": [
+          [206],
+          [402]
+        ]
+      }, {
+        "startTime": "12:30",
+        "endTime": ["13:30"],
         "track":  {
           "title": "Campus Cafe"
         },
         "sessions": [
-            [102]
+          [121],
+          [122],
+          [123],
+          [124]
         ]
-    }, {
-        "startTime": "12:00",
-        "endTime": "12:45",
+      }, {
+        "startTime": "13:30",
+        "endTime": ["14:00"],
         "sessions": [
-            [202],
-            [302],
-            [402]
+          [201]
         ]
-    }, {
-        "startTime": "12:45",
-        "endTime": "14:00",
-        "track":  {
-          "title": "Campus Cafe"
-        },
+      }, {
+        "startTime": "14:05",
+        "endTime": ["14:35"],
         "sessions": [
-            [103]
+          [202]
         ]
-    }, {
-        "startTime": "14:00",
-        "endTime": "14:45",
+      }, {
+        "startTime": "14:40",
+        "endTime": ["15:20"],
         "sessions": [
-            [203],
-            [303],
-            [403]
+          [205]
         ]
-    }, {
-        "startTime": "14:45",
-        "endTime": "15:00",
-        "track":  {
-          "title": "Campus Cafe"
-        },
+      }, {
+        "startTime": "15:25",
+        "endTime": ["15:50"],
         "sessions": [
-            [102]
+          [111]
         ]
-    }, {
-        "startTime": "15:00",
-        "endTime": "15:45",
+      }, {
+        "startTime": "15:50",
+        "endTime": ["16:20"],
         "sessions": [
-            [204],
-            [304],
-            [404]
+          [207]
         ]
-    }, {
-        "startTime": "15:45",
-        "endTime": "16:00",
-        "track":  {
-          "title": "Campus Cafe"
-        },
+      }, {
+        "startTime": "16:25",
+        "endTime": ["16:55"],
         "sessions": [
-            [102]
+          [203]
         ]
-    }, {
-        "startTime": "16:00",
-        "endTime": "16:45",
-        "sessions": [
-            [205],
-            [305],
-            [405]
-        ]
-    }, {
-        "startTime": "16:45",
-        "endTime": "17:00",
-        "track":  {
-          "title": "Ground Floor and 3rd Floor - Event space"
-        },
-        "sessions": [
-            [112]
-        ]
-    }, {
+      }, {
         "startTime": "17:00",
-        "endTime": "18:00",
-        "track":  {
-          "title": "Campus Cafe"
-        },
+        "endTime": ["17:15"],
         "sessions": [
-            [104]
+          [151]
         ]
-    }
-  ]
+      }
+    ]
   }
 ]
