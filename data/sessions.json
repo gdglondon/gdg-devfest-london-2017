@@ -7,49 +7,49 @@
   },
   "111": {
     "id": 111,
-    "title": "Coffee break for the mobile track",
+    "title": "Coffee break for the Mobile track",
     "description": "Refresh yourself with a coffee for the next session!",
     "image": "/images/backgrounds/coffee-break.jpg"
   },
   "112": {
     "id": 112,
-    "title": "Coffee break for the web track",
+    "title": "Coffee break for the Web track",
     "description": "Refresh yourself with a coffee for the next session!",
     "image": "/images/backgrounds/coffee-break.jpg"
   },
   "113": {
     "id": 113,
-    "title": "Coffee break for the cloud track",
+    "title": "Coffee break for the Cloud track",
     "description": "Refresh yourself with a coffee for the next session!",
     "image": "/images/backgrounds/coffee-break.jpg"
   },
   "114": {
     "id": 114,
-    "title": "Coffee break for the digital mezze track",
+    "title": "Coffee break for the Digital Mezze track",
     "description": "Refresh yourself with a coffee for the next session!",
     "image": "/images/backgrounds/coffee-break.jpg"
   },
   "121": {
     "id": 121,
-    "title": "Lunch for the mobile track",
+    "title": "Lunch for the Mobile track",
     "description": "Great opportunity for networking and recharging yourself.",
     "image": "/images/backgrounds/lunch.jpg"
   },
   "122": {
     "id": 122,
-    "title": "Lunch for the web track",
+    "title": "Lunch for the Web track",
     "description": "Great opportunity for networking and recharging yourself.",
     "image": "/images/backgrounds/lunch.jpg"
   },
   "123": {
     "id": 123,
-    "title": "Lunch for the cloud track",
+    "title": "Lunch for the Cloud track",
     "description": "Great opportunity for networking and recharging yourself.",
     "image": "/images/backgrounds/lunch.jpg"
   },
   "124": {
     "id": 124,
-    "title": "Lunch for the digital mezze track",
+    "title": "Lunch for the Digital Mezze track",
     "description": "Great opportunity for networking and recharging yourself.",
     "image": "/images/backgrounds/lunch.jpg"
   },
@@ -61,22 +61,22 @@
   },
   "141": {
     "id": 141,
-    "title": "Welcome to the mobile track",
+    "title": "Welcome to the Mobile track",
     "description": "Official start of the conference. Greetings from the organizers."
   },
   "142": {
     "id": 142,
-    "title": "Welcome to the web track",
+    "title": "Welcome to the Web track",
     "description": "Official start of the conference. Greetings from the organizers."
   },
   "143": {
     "id": 143,
-    "title": "Welcome to the cloud track",
+    "title": "Welcome to the Cloud track",
     "description": "Official start of the conference. Greetings from the organizers."
   },
   "144": {
     "id": 144,
-    "title": "Welcome to the digital mezze track",
+    "title": "Welcome to the Digital Mezze track",
     "description": "Official start of the conference. Greetings from the organizers."
   },
   "151": {
@@ -125,6 +125,9 @@
     "id": 203,
     "title": "Profile, debug, analyze",
     "description": "TBA",
+    "speakers": [
+
+    ],
     "tags": [
       "Android"
     ]
@@ -155,6 +158,9 @@
     "id": 206,
     "title": "I like the way you move",
     "description": "Good use of animations can not only help make your app’s UI more intuitive, but can also build emotional attachment with your users. Mark Allison will explore the subtleties of why some animations work where others don’t; The distinct components of effective animation; and, of course, some detailed worked examples of how to create amazing Android animations.",
+    "speakers": [
+
+    ],
     "tags": [
       "Android"
     ]
@@ -236,6 +242,17 @@
       "Web"
     ]
   },
+  "307": {
+    "id": 307,
+    "title": "TBA",
+    "description": "TBA",
+    "speakers": [
+
+    ],
+    "tags": [
+      "Web"
+    ]
+  },
   "401": {
     "id": 401,
     "title": "Google Apps Script - gateway to Google APIS",
@@ -302,6 +319,28 @@
       "Entrepreneurship"
     ]
   },
+  "407": {
+    "id": 407,
+    "title": "Funding for Tech Startups",
+    "description": "How to source seed funding, attract investment and match your tech business to the right investors. John Spindler is the CEO of Capital Enterprise and a key player in establishing a culture of innovation and investment in the blossoming London tech scene. John has had more than 15 years’ experience as an entrepreneur and business advisor/consultant, recently extending into investment as Partner and Co-Founder of the London Co-Investment Fund and AI Seed.",
+    "speakers": [
+
+    ],
+    "tags": [
+      "Entrepreneurship"
+    ]
+  },
+  "408": {
+    "id": 408,
+    "title": "Digital Marketing: What not to do for your business",
+    "description": "In this extremely practical session, Daniel and Ciaran, Hosts of the iTunes top 10 \"Digital Marketing Podcast\", share the mistakes and techniques they wished they avoided and what they did that worked. Full of practical hands on techniques and tools, attendees will leave with a wealth of experience and tools they can use straight away. Attendees will also receive a toolkit listing 50 of the most useful digital marketing tools and access to a library of podcasts to help them implement their digital activity.",
+    "speakers": [
+
+    ],
+    "tags": [
+      "Entrepreneurship"
+    ]
+  },
   "501": {
     "id": 501,
     "title": "Kubernetes: hyper-scale computing for the masses",
@@ -341,6 +380,50 @@
     "description": "In this talk, we focus on a technique that allow a machine learning model to minimize two different cost functions (each representing a different task) together, by gradually switching between the tasks. This technique can be thought as a generalisation of curriculum learning, and can in principle be applied to n tasks. We present the results of an experiment conducted on the MNIST dataset and implemented using Tensorflow and Keras.",
     "speakers": [
       18
+    ],
+    "tags": [
+      "Cloud"
+    ]
+  },
+  "505": {
+    "id": 505,
+    "title": "Intro to Google Cloud storage and computing",
+    "description": "There's a lot to grok in cloud computing, and trying to understand it all can be daunting. In this session, Marc will walk us through a hands-on, practical guided tour of the Google Cloud Platform, with a particular focus on storage and computing.",
+    "speakers": [
+
+    ],
+    "tags": [
+      "Cloud"
+    ]
+  },
+  "506": {
+    "id": 506,
+    "title": "Lowering the barriers: Machine Learning and Cloud",
+    "description": "Marc will provide an overview of Google's AI APIs, which offer easy access to rich, pre-trained models via a single API call with lots of demos, and a brief overview of Cloud ML Engine, which allows training and hosting of custom machine learning models in the Cloud.",
+    "speakers": [
+
+    ],
+    "tags": [
+      "Cloud"
+    ]
+  },
+  "507": {
+    "id": 507,
+    "title": "TBA",
+    "description": "TBA",
+    "speakers": [
+
+    ],
+    "tags": [
+      "Cloud"
+    ]
+  },
+  "508": {
+    "id": 508,
+    "title": "Collaborative Machine Learning using Kubernetes and Jupyter",
+    "description": "The Jupyter notebook is the established development environment of the data scientist, typically running on a laptop or remote server. However the default Jupyter server presents challenges which make doing collaborative machine learning at scale difficult. In this talk, I'll discuss these challenges of security, scalability, and collaboration, and describe the Kubernetes-based infrastructure we’ve built at ASI Data Science to overcome them.",
+    "speakers": [
+
     ],
     "tags": [
       "Cloud"

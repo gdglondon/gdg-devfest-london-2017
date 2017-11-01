@@ -18,7 +18,7 @@
         "startTime": "10:30",
         "endTime": ["10:45"],
         "track":  {
-          "title": "Campus Cafe"
+          "title": "Reception area"
         },
         "sessions": [
           [101]
@@ -34,35 +34,76 @@
         ]
       }, {
         "startTime": "11:00",
-        "endTime": ["11:40", "11:35"],
+        "endTime": ["11:40", "11:35", "11:30", "11:25"],
         "sessions": [
           [204],
-          [301]
+          [307],
+          [503],
+          [404]
+        ]
+      }, {
+        "startTime": "11:30",
+        "endTime": ["12:00", "11:55"],
+        "sessions": [
+          [502],
+          [403]
         ]
       }, {
         "startTime": "11:45",
         "endTime": ["12:25"],
         "sessions": [
           [206],
+          [306],
           [402]
         ]
       }, {
+        "startTime": "12:00",
+        "endTime": ["12:25"],
+        "sessions": [
+          [407]
+        ]
+      }, {
+        "startTime": "12:05",
+        "endTime": ["12:35"],
+        "sessions": [
+          [505]
+        ]
+      }, {
         "startTime": "12:30",
-        "endTime": ["13:30"],
+        "endTime": ["13:30", "12:55"],
         "track":  {
-          "title": "Campus Cafe"
+          "title": "Reception area"
         },
         "sessions": [
           [121],
           [122],
-          [123],
-          [124]
+          [405]
+        ]
+      }, {
+        "startTime": "12:40",
+        "endTime": ["13:10"],
+        "sessions": [
+          [501]
+        ]
+      }, {
+        "startTime": "13:00",
+        "endTime": ["13:25"],
+        "sessions": [
+          [406]
+        ]
+      }, {
+        "startTime": "13:10",
+        "endTime": ["14:10"],
+        "sessions": [
+          [123]
         ]
       }, {
         "startTime": "13:30",
-        "endTime": ["14:00"],
+        "endTime": ["14:00", "14:10", "14:30"],
         "sessions": [
-          [201]
+          [201],
+          [303],
+          [124]
         ]
       }, {
         "startTime": "14:05",
@@ -71,13 +112,50 @@
           [202]
         ]
       }, {
+        "startTime": "14:10",
+        "endTime": ["14:40"],
+        "sessions": [
+          [506]
+        ]
+      }, {
+        "startTime": "14:15",
+        "endTime": ["14:55"],
+        "sessions": [
+          [302]
+        ]
+      }, {
+        "startTime": "14:30",
+        "endTime": ["15:10"],
+        "sessions": [
+          [401]
+        ]
+      }, {
         "startTime": "14:40",
         "endTime": ["15:20"],
         "sessions": [
           [205]
         ]
       }, {
-        "startTime": "15:25",
+        "startTime": "14:45",
+        "endTime": ["15:15"],
+        "sessions": [
+          [504]
+        ]
+      }, {
+        "startTime": "14:55",
+        "endTime": ["15:30"],
+        "sessions": [
+          [112]
+        ]
+      }, {
+        "startTime": "15:15",
+        "endTime": ["15:45", "15:55"],
+        "sessions": [
+          [113],
+          [408]
+        ]
+      }, {
+        "startTime": "15:20",
         "endTime": ["15:50"],
         "sessions": [
           [111]
@@ -89,16 +167,66 @@
           [207]
         ]
       }, {
-        "startTime": "16:25",
+        "startTime": "15:30",
+        "endTime": ["16:00"],
+        "sessions": [
+          [305]
+        ]
+      }, {
+        "startTime": "15:45",
+        "endTime": ["16:15"],
+        "sessions": [
+          [507]
+        ]
+      }, {
+        "startTime": "15:55",
+        "endTime": ["16:30"],
+        "sessions": [
+          [114]
+        ]
+      }, {
+        "startTime": "16:05",
+        "endTime": ["16:35"],
+        "sessions": [
+          [301]
+        ]
+      }, {
+        "startTime": "16:20",
         "endTime": ["16:55"],
         "sessions": [
           [203]
         ]
       }, {
+        "startTime": "16:25",
+        "endTime": ["16:55"],
+        "sessions": [
+          [508]
+        ]
+      }, {
+        "startTime": "16:30",
+        "endTime": ["17:10"],
+        "sessions": [
+          [403]
+        ]
+      }, {
+        "startTime": "16:40",
+        "endTime": ["17:10"],
+        "sessions": [
+          [304]
+        ]
+      }, {
         "startTime": "17:00",
         "endTime": ["17:15"],
         "sessions": [
-          [151]
+          [151],
+          [153]
+        ]
+      }, {
+        "startTime": "17:15",
+        "endTime": ["17:30"],
+        "sessions": [
+          [152],
+          [154]
         ]
       }
     ]
