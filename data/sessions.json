@@ -25,7 +25,7 @@
   },
   "114": {
     "id": 114,
-    "title": "Coffee break for the Digital Mezze track",
+    "title": "Coffee break for the Tech Entrepreneurship track",
     "description": "Refresh yourself with a coffee for the next session!",
     "image": "/images/backgrounds/coffee-break.jpg"
   },
@@ -49,7 +49,7 @@
   },
   "124": {
     "id": 124,
-    "title": "Lunch for the Digital Mezze track",
+    "title": "Lunch for the Tech Entrepreneurship track",
     "description": "Great opportunity for networking and recharging yourself.",
     "image": "/images/backgrounds/lunch.jpg"
   },
@@ -76,7 +76,7 @@
   },
   "144": {
     "id": 144,
-    "title": "Welcome to the Digital Mezze track",
+    "title": "Welcome to the Tech Entrepreneurship track",
     "description": "Official start of the conference. Greetings from the organizers."
   },
   "151": {
@@ -96,7 +96,7 @@
   },
   "154": {
     "id": 154,
-    "title": "Digital mezze track wrap up",
+    "title": "Tech Entrepreneurship track wrap up",
     "description": "End of the conference, beginning of the networking and drinks."
   },
   "201": {
