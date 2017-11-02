@@ -542,5 +542,94 @@
         "link": "https://plus.google.com/+AygulZagidullina"
       }
     ]
+  },
+  "21": {
+    "id": 21,
+    "featured": true,
+    "name": "Alessandro Cinelli",
+    "title": "Tech Lead",
+    "company": "AND Digital",
+    "companyLogo": "/images/logos/and_digital.png",
+    "photoUrl": "/images/people/alessandro_cinelli.png",
+    "shortBio": "Alessandro Cinelli (a.k.a. cirpo) is currently working in London as Lead/Tech Coach at AND Digital. He loves playing with programming languages and giving back to the community.",
+    "bio": "Alessandro Cinelli (a.k.a. cirpo) is currently working in London as Lead/Tech Coach at AND Digital. He loves playing with programming languages and giving back to the community. When he was in Italy he has been a board member of the Italian PHP, Javascript User Group and WEBdeBS, co-organizing several events such as agileday, phpDay, jsDay, nosqlday and Nodejsconf. These days he is busy co-organizing tech events with @WEBdeLDN in London.",
+    "tags": [
+      "Web"
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/cirpo"
+      }
+    ]
+  },
+  "22": {
+    "id": 22,
+    "featured": true,
+    "name": "Mark Allison",
+    "title": "Android Developer",
+    "company": "Styling Android Limited",
+    "companyLogo": "/images/logos/styling_android.png",
+    "photoUrl": "/images/people/mark_allison.jpg",
+    "shortBio": "Mark Allison is a GDE for Android and software engineer with over 30 years’ experience. He is passionate about providing the user with the best possible experience.",
+    "bio": "Mark Allison is a GDE for Android and software engineer with over 30 years’ experience. He is passionate about providing the user with the best possible experience. He has developed both server and client side, most commonly Android on the client side, but with also for iOS, HTML5, Symbian, and J2ME. Mark writes a technical blog (http://blog.stylingandroid.com) which focuses on Android UI/UX topics, but often covers more general Android development techniques.\n\nWhen not being geeky, Mark likes to unwind by hurling abuse at football referees, specifically those who are unkind to his beloved Watford FC with whom he holds a season ticket. He also has a deep love of spicy food, beer, and malt whisky; and consumes these at every opportunity!\n\nMark is happily married with a grown up step-daughter, and lives in Hertfordshire, UK.",
+    "tags": [
+      "Android"
+    ],
+    "socials": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "link": "https://blog.stylingandroid.com"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/MarkIAllison"
+      }
+    ]
+  },
+  "23": {
+    "id": 23,
+    "featured": false,
+    "name": "John Spindler",
+    "title": "CEO & Co-Founder",
+    "company": "Capital Enterprise",
+    "companyLogo": "",
+    "photoUrl": "",
+    "shortBio": "CEO of Capital Enterprise, Co-Founder of the London Co-Investment Fund and founder and partner on the AI Seed Fund, John has fair claim to be the most active seed stage investor in the UK.",
+    "bio": "CEO of Capital Enterprise, Co-Founder of the London Co-Investment Fund and founder and partner on the AI Seed Fund, John has fair claim to be the most active seed stage investor in the UK.",
+    "tags": [
+      "Entrepreneurship"
+    ],
+    "socials": [
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/johnbspindler"
+      }
+    ]
+  },
+  "24": {
+    "id": 24,
+    "featured": true,
+    "name": "Marc Cohen",
+    "title": "Developer Advocate",
+    "company": "Google",
+    "companyLogo": "/images/logos/google.svg",
+    "photoUrl": "/images/people/marc_cohen.jpg",
+    "shortBio": "Marc builds tools, demos, codelabs, and other things to make the Google Cloud Platform easier and more fun to use. Originally from New Jersey, then Seattle, he now lives and works in London.",
+    "bio": "Marc builds tools, demos, codelabs, and other things to make the Google Cloud Platform easier and more fun to use. Originally from New Jersey, then Seattle, he now lives and works in London. He has co-authored a book about Google Compute Engine and wrote the product announcement demo. In a previous life, he developed communication systems at Bell Labs and Lucent Technologies. Outside of work, he enjoys indie music, quirky films (especially documentaries), books, puzzles, and chess. He's also very interested in education, teaching, and applying technology (like spaced repetition) to enhance the learning experience.",
+    "tags": [
+      "Cloud"
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/marcacohen"
+      }
+    ]
   }
 }

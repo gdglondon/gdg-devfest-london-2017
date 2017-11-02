@@ -157,9 +157,9 @@
   "206": {
     "id": 206,
     "title": "I like the way you move",
-    "description": "Good use of animations can not only help make your app’s UI more intuitive, but can also build emotional attachment with your users. Mark Allison will explore the subtleties of why some animations work where others don’t; The distinct components of effective animation; and, of course, some detailed worked examples of how to create amazing Android animations.",
+    "description": "Good use of animations can not only help make your app’s UI more intuitive, but can also build emotional attachment with your users.\n\nMark Allison will explore the subtleties of why some animations work where others don’t; The distinct components of effective animation; and, of course, some detailed worked examples of how to create amazing Android animations.",
     "speakers": [
-
+      22
     ],
     "tags": [
       "Android"
@@ -244,10 +244,10 @@
   },
   "307": {
     "id": 307,
-    "title": "TBA",
-    "description": "TBA",
+    "title": "The evolution of asynchronous JavaScript",
+    "description": "One of JavaScript’s strengths is how it handles asynchrony. Async is one of the most important and often misunderstood part of Javascript or any other language. We will see how dealing with asynchrony in JavaScript evolved over the years. It all started with callbacks, it landed on generators and...",
     "speakers": [
-
+      21
     ],
     "tags": [
       "Web"
@@ -321,10 +321,10 @@
   },
   "407": {
     "id": 407,
-    "title": "Funding for Tech Startups",
-    "description": "How to source seed funding, attract investment and match your tech business to the right investors. John Spindler is the CEO of Capital Enterprise and a key player in establishing a culture of innovation and investment in the blossoming London tech scene. John has had more than 15 years’ experience as an entrepreneur and business advisor/consultant, recently extending into investment as Partner and Co-Founder of the London Co-Investment Fund and AI Seed.",
+    "title": "Raising a Seed Round",
+    "description": "How to raise a seed round from London based investors.",
     "speakers": [
-
+      23
     ],
     "tags": [
       "Entrepreneurship"
@@ -390,7 +390,7 @@
     "title": "Intro to Google Cloud storage and computing",
     "description": "There's a lot to grok in cloud computing, and trying to understand it all can be daunting. In this session, Marc will walk us through a hands-on, practical guided tour of the Google Cloud Platform, with a particular focus on storage and computing.",
     "speakers": [
-
+      24
     ],
     "tags": [
       "Cloud"
@@ -401,7 +401,7 @@
     "title": "Lowering the barriers: Machine Learning and Cloud",
     "description": "Marc will provide an overview of Google's AI APIs, which offer easy access to rich, pre-trained models via a single API call with lots of demos, and a brief overview of Cloud ML Engine, which allows training and hosting of custom machine learning models in the Cloud.",
     "speakers": [
-
+      24
     ],
     "tags": [
       "Cloud"
