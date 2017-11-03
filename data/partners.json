@@ -26,6 +26,21 @@
         "name": "Creative AI",
         "url": "https://www.meetup.com/Creative-AI",
         "logoUrl": "../images/logos/creative_ai.png"
+      },
+      {
+        "name": "London JS",
+        "url": "https://www.meetup.com/London-JavaScript-Community",
+        "logoUrl": "../images/logos/london_js.png"
+      },
+      {
+        "name": "TensorFlow London",
+        "url": "https://www.meetup.com/TensorFlow-London",
+        "logoUrl": "../images/logos/tensorflow_london.jpg"
+      },
+      {
+        "name": "GDG Cloud London",
+        "url": "https://www.meetup.com/gdgcloud/",
+        "logoUrl": "../images/logos/gdg_cloud_london.png"
       }
     ]
   }
