@@ -454,12 +454,12 @@
   },
   "18": {
     "id": 18,
-    "featured": false,
+    "featured": true,
     "name": "Giovanni Vacanti",
     "title": "Physicist, Data Scientist",
     "company": "Seldon technologies",
     "companyLogo": "/images/logos/seldon.png",
-    "photoUrl": "",
+    "photoUrl": "images/people/giovanni_vacanti.jpg",
     "shortBio": "After obtaining a master degree in physics at University of Palermo, Italy, Giovanni joined the graduate program at Centre for quantum technologies, National University of Singapore, where he obtained a Phd in Theoretical physics in 2013.",
     "bio": "After obtaining a master degree in physics at University of Palermo, Italy, Giovanni joined the graduate program at Centre for quantum technologies, National University of Singapore, where he obtained a Phd in Theoretical physics in 2013. Until 2015, he worked as a postdoctoral researcher in theoretical quantum physics at Institut Neel, Grenoble, France. Since 2016 he works as a Data scientist at Seldon technologies , developing  machine learning solutions for various use cases.",
     "tags": [
