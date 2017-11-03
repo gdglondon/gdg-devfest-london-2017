@@ -118,7 +118,11 @@
                     session.track = timeslot.track;
                   }
                   if (session && !session.track) {
-                    session.track = day.tracks[k];
+                    if (session.id >= 200) {
+                      session.track = day.tracks[Math.floor(session.id / 100) - 2];
+                    } else {
+                      session.track = day.tracks[k];
+                    }
                   }
                   session.startTime = timeslot.startTime;
 

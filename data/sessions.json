@@ -5,8 +5,8 @@
     "description": "Arrival / Registration / Breakfast",
     "image": "/images/backgrounds/registration.jpg"
   },
-  "111": {
-    "id": 111,
+  "290": {
+    "id": 290,
     "title": "Coffee break for the Mobile track",
     "description": "Refresh yourself with a coffee for the next session!",
     "image": "/images/backgrounds/coffee-break.jpg",
@@ -14,8 +14,8 @@
       "Android"
     ]
   },
-  "112": {
-    "id": 112,
+  "390": {
+    "id": 390,
     "title": "Coffee break for the Web track",
     "description": "Refresh yourself with a coffee for the next session!",
     "image": "/images/backgrounds/coffee-break.jpg",
@@ -23,8 +23,8 @@
       "Web"
     ]
   },
-  "113": {
-    "id": 113,
+  "590": {
+    "id": 590,
     "title": "Coffee break for the Cloud and Machine Learning track",
     "description": "Refresh yourself with a coffee for the next session!",
     "image": "/images/backgrounds/coffee-break.jpg",
@@ -32,8 +32,8 @@
       "Cloud"
     ]
   },
-  "114": {
-    "id": 114,
+  "490": {
+    "id": 490,
     "title": "Coffee break for the Tech Entrepreneurship track",
     "description": "Refresh yourself with a coffee for the next session!",
     "image": "/images/backgrounds/coffee-break.jpg",
@@ -41,8 +41,8 @@
       "Entrepreneurship"
     ]
   },
-  "121": {
-    "id": 121,
+  "291": {
+    "id": 291,
     "title": "Lunch for the Mobile track",
     "description": "Great opportunity for networking and recharging yourself.",
     "image": "/images/backgrounds/lunch.jpg",
@@ -50,8 +50,8 @@
       "Android"
     ]
   },
-  "122": {
-    "id": 122,
+  "391": {
+    "id": 391,
     "title": "Lunch for the Web track",
     "description": "Great opportunity for networking and recharging yourself.",
     "image": "/images/backgrounds/lunch.jpg",
@@ -59,8 +59,8 @@
       "Web"
     ]
   },
-  "123": {
-    "id": 123,
+  "591": {
+    "id": 591,
     "title": "Lunch for the Cloud and Machine Learning track",
     "description": "Great opportunity for networking and recharging yourself.",
     "image": "/images/backgrounds/lunch.jpg",
@@ -68,8 +68,8 @@
       "Cloud"
     ]
   },
-  "124": {
-    "id": 124,
+  "491": {
+    "id": 491,
     "title": "Lunch for the Tech Entrepreneurship track",
     "description": "Great opportunity for networking and recharging yourself.",
     "image": "/images/backgrounds/lunch.jpg",
@@ -83,64 +83,64 @@
     "description": "Relaxing after a great day with drinks and networking with other passionate developers.",
     "image": "/images/backgrounds/drinks.jpg"
   },
-  "141": {
-    "id": 141,
+  "292": {
+    "id": 292,
     "title": "Welcome to the Mobile track",
     "description": "Official start of the conference. Greetings from the organizers.",
     "tags": [
       "Android"
     ]
   },
-  "142": {
-    "id": 142,
+  "392": {
+    "id": 392,
     "title": "Welcome to the Web track",
     "description": "Official start of the conference. Greetings from the organizers.",
     "tags": [
       "Web"
     ]
   },
-  "143": {
-    "id": 143,
+  "592": {
+    "id": 592,
     "title": "Welcome to the Cloud and Machine Learning track",
     "description": "Official start of the conference. Greetings from the organizers.",
     "tags": [
       "Cloud"
     ]
   },
-  "144": {
-    "id": 144,
+  "492": {
+    "id": 492,
     "title": "Welcome to the Tech Entrepreneurship track",
     "description": "Official start of the conference. Greetings from the organizers.",
     "tags": [
       "Entrepreneurship"
     ]
   },
-  "151": {
-    "id": 151,
+  "293": {
+    "id": 293,
     "title": "Mobile track wrap up",
     "description": "End of the conference, beginning of the networking and drinks.",
     "tags": [
       "Android"
     ]
   },
-  "152": {
-    "id": 152,
+  "393": {
+    "id": 393,
     "title": "Web track wrap up",
     "description": "End of the conference, beginning of the networking and drinks.",
     "tags": [
       "Web"
     ]
   },
-  "153": {
-    "id": 153,
+  "593": {
+    "id": 593,
     "title": "Cloud and Machine Learning track wrap up",
     "description": "End of the conference, beginning of the networking and drinks.",
     "tags": [
       "Cloud"
     ]
   },
-  "154": {
-    "id": 154,
+  "493": {
+    "id": 493,
     "title": "Tech Entrepreneurship track wrap up",
     "description": "End of the conference, beginning of the networking and drinks.",
     "tags": [
