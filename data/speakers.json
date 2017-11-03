@@ -54,13 +54,13 @@
   "3": {
     "id": 3,
     "featured": true,
-    "name": "Surma",
-    "title": "Developer Advocate",
+    "name": "Peter Beverloo",
+    "title": "Senior Software Engineer",
     "company": "Google",
     "companyLogo": "/images/logos/google.svg",
-    "photoUrl": "/images/people/surma.jpg",
-    "shortBio": "Surma is an engineer working with the Chrome team. He likes to cut himself on the bleeding edge, goes full-stack every once in a while and prefers good code over functional one.",
-    "bio": "Surma is an engineer working with the Chrome team. He likes to cut himself on the bleeding edge, goes full-stack every once in a while and prefers good code over functional one.",
+    "photoUrl": "/images/people/peter_beverloo.jpg",
+    "shortBio": "TBA",
+    "bio": "TBA",
     "tags": [
       "Web"
     ],
@@ -68,12 +68,7 @@
       {
         "icon": "twitter",
         "name": "Twitter",
-        "link": "https://twitter.com/dassurma/"
-      },
-      {
-        "icon": "website",
-        "name": "Website",
-        "link": "https://dassur.ma/"
+        "link": "https://twitter.com/beverloo/"
       }
     ]
   },
