@@ -626,5 +626,57 @@
         "link": "https://twitter.com/marcacohen"
       }
     ]
+  },
+  "25": {
+    "id": 25,
+    "featured": true,
+    "name": "Daniel Rowles",
+    "title": "CEO & Lead Trainer",
+    "company": "Target Internet - The Digital Marketing Podcast",
+    "companyLogo": "/images/logos/target_internet.png",
+    "photoUrl": "/images/people/daniel_rowles.jpg",
+    "shortBio": "Daniel has been working in digital marketing for the past 19 years, with extensive experience working both client-side and within the agency environment.",
+    "bio": "Daniel has been working in digital marketing for the past 19 years, with extensive experience working both client-side and within the agency environment. He is a Course Director for the Chartered Institute for Marketing, an award-winning author, and lecturer at Imperial College and Cranfield School of Management.",
+    "tags": [
+      "Entrepreneurship"
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/DanielRowles"
+      },
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/danielrowles/"
+      }
+    ]
+  },
+  "26": {
+    "id": 26,
+    "featured": true,
+    "name": "Ciaran Rogers",
+    "title": "Marketing Director",
+    "company": "Target Internet - The Digital Marketing Podcast",
+    "companyLogo": "/images/logos/target_internet.png",
+    "photoUrl": "/images/people/ciaran_rogers.jpg",
+    "shortBio": "Ciaran is an experienced digital strategist with over 19 years experience, he has worked for and trained a large number of international brands including, and was a lead lecturer for Middlesex University on their Digital Marketing MA programme.",
+    "bio": "Ciaran is an experienced digital strategist with over 19 years experience, he has worked for and trained a large number of international brands including, and was a lead lecturer for Middlesex University on their Digital Marketing MA programme.",
+    "tags": [
+      "Entrepreneurship"
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/ciaraniow"
+      },
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/ciaranrogers/"
+      }
+    ]
   }
 }
