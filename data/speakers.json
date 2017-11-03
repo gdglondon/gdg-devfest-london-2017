@@ -678,5 +678,26 @@
         "link": "https://www.linkedin.com/in/ciaranrogers/"
       }
     ]
+  },
+  "27": {
+    "id": 27,
+    "featured": true,
+    "name": "Wojtek Kaliciński",
+    "title": "Developer Advocate",
+    "company": "Google",
+    "companyLogo": "/images/logos/google.svg",
+    "photoUrl": "/images/people/wojtek_kalicinski.jpg",
+    "shortBio": "I am a Developer Advocate at Google and I work closely with the Android Studio team to provide outreach on new Studio and Tools releases and framework features.",
+    "bio": "I am a Developer Advocate at Google and I work closely with the Android Studio team to provide outreach on new Studio and Tools releases and framework features. I enjoy looking for ways to make apps more usable, mostly through better development patterns and code optimizations.",
+    "tags": [
+      "Android"
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/wkalic"
+      }
+    ]
   }
 }

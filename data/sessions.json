@@ -171,10 +171,10 @@
   },
   "203": {
     "id": 203,
-    "title": "Profile, debug, analyze",
-    "description": "TBA",
+    "title": "Profile, Debug, Analyze",
+    "description": "Android Studio has a new suite of tools for analysing your apps and for debugging runtime errors and performance problems. Developers are also becoming more aware about the need to make their apps leaner and faster, but often don't know what tools are at their disposal. I will share with you several classes of common debugging problems and the appropriate tools to tackle them.",
     "speakers": [
-
+      27
     ],
     "tags": [
       "Android"
