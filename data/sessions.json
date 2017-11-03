@@ -25,7 +25,7 @@
   },
   "113": {
     "id": 113,
-    "title": "Coffee break for the Cloud track",
+    "title": "Coffee break for the Cloud and Machine Learning track",
     "description": "Refresh yourself with a coffee for the next session!",
     "image": "/images/backgrounds/coffee-break.jpg",
     "tags": [
@@ -61,7 +61,7 @@
   },
   "123": {
     "id": 123,
-    "title": "Lunch for the Cloud track",
+    "title": "Lunch for the Cloud and Machine Learning track",
     "description": "Great opportunity for networking and recharging yourself.",
     "image": "/images/backgrounds/lunch.jpg",
     "tags": [
@@ -101,7 +101,7 @@
   },
   "143": {
     "id": 143,
-    "title": "Welcome to the Cloud track",
+    "title": "Welcome to the Cloud and Machine Learning track",
     "description": "Official start of the conference. Greetings from the organizers.",
     "tags": [
       "Cloud"
@@ -133,7 +133,7 @@
   },
   "153": {
     "id": 153,
-    "title": "Cloud track wrap up",
+    "title": "Cloud and Machine Learning track wrap up",
     "description": "End of the conference, beginning of the networking and drinks.",
     "tags": [
       "Cloud"
