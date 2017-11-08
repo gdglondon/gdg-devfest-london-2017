@@ -472,7 +472,7 @@
     "title": "Collaborative Machine Learning using Kubernetes and Jupyter",
     "description": "The Jupyter notebook is the established development environment of the data scientist, typically running on a laptop or remote server. However the default Jupyter server presents challenges which make doing collaborative machine learning at scale difficult. In this talk, I'll discuss these challenges of security, scalability, and collaboration, and describe the Kubernetes-based infrastructure we’ve built at ASI Data Science to overcome them.",
     "speakers": [
-
+      28
     ],
     "tags": [
       "Cloud"
