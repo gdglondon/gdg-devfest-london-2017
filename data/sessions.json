@@ -477,5 +477,13 @@
     "tags": [
       "Cloud"
     ]
+  },
+  "601": {
+    "id": 601,
+    "title": "Codelabs",
+    "description": "Drop in for a range of codelabs we'll be running throughout the day, supported by our volunteers. We'll be covering a range of topics including web, mobile, machine learning, Google Apps and Actions on Google along with the chance to win one of 5 Google Homes for best idea for a voice app if you complete the codelab. Find the codelabs at https://codelabs.developers.google.com/devfest-lon.",
+    "tags": [
+      "Codelabs"
+    ]
   }
 }

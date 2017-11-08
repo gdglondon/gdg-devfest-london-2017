@@ -24,6 +24,15 @@
           [101]
         ]
       }, {
+        "startTime": "10:15",
+        "endTime": ["16:00"],
+        "track":  {
+          "title": "Jeremy Bentham Room"
+        },
+        "sessions": [
+          [601]
+        ]
+      }, {
         "startTime": "10:45",
         "endTime": ["11:00"],
         "sessions": [
