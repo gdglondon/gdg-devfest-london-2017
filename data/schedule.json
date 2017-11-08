@@ -236,6 +236,15 @@
           [393],
           [493]
         ]
+      }, {
+        "startTime": "17:30",
+        "endTime": ["18:30"],
+        "track":  {
+          "title": "Reception area"
+        },
+        "sessions": [
+          [131]
+        ]
       }
     ]
   }
