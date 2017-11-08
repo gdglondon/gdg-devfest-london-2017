@@ -708,16 +708,37 @@
     "company": "ASI Data Science",
     "companyLogo": "/images/logos/asi.svg",
     "photoUrl": "/images/people/andrew_brookes.jpg",
-    "shortBio": "Andrew​ ​Brookes​ is the co-founder and CTO of ASI Data Science. A computer scientist with over 10 years of software development experience, he is responsible for the company-wide software engineering efforts and the building of the data science product, SherlockML.",
+    "shortBio": "Andrew​ ​Brookes​ is the co-founder and CTO of ASI Data Science. A computer scientist with over 10 years of software development experience, he is...",
     "bio": "Andrew​ ​Brookes​ is the co-founder and CTO of ASI Data Science. A computer scientist with over 10 years of software development experience, he is responsible for the company-wide software engineering efforts and the building of the data science product, SherlockML. Previously he lead engineering teams building BlackRock’s global portfolio management systems.",
     "tags": [
-      "Android"
+      "Cloud"
     ],
     "socials": [
       {
         "icon": "twitter",
         "name": "Twitter",
         "link": "https://twitter.com/asbrookes"
+      }
+    ]
+  },
+  "29": {
+    "id": 29,
+    "featured": true,
+    "name": "Jeremy Hindle",
+    "title": "CTO and Cofounder",
+    "company": "Headstart AI",
+    "companyLogo": "/images/logos/headstart_ai.png",
+    "photoUrl": "/images/people/jeremy_hindle.jpg",
+    "shortBio": "Jeremy, the CTO and Cofounder of Headstart AI, is a third-time founder and self-taught programmer who has worked with Machine Learning for 8 years.",
+    "bio": "Jeremy, the CTO and Cofounder of Headstart AI, is a third-time founder and self-taught programmer who has worked with Machine Learning for 8 years. He initially learnt how to code through an interest in the games industry, running one of the world’s biggest Minecraft communities (LPMinecraft). Most recently, he founded Omnigon Games where he and his team were making UemeU, an ambitious ‘next generation’ sandbox game, which was acquired by Jagex.",
+    "tags": [
+      "Cloud"
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/mentioum"
       }
     ]
   }

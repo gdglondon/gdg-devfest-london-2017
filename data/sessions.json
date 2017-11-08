@@ -459,9 +459,9 @@
   "507": {
     "id": 507,
     "title": "How to build an AI startup",
-    "description": "TBA",
+    "description": "How your data source is the most important part of starting an AI company. Especially if you are doing something new and unique, which Headstart AI is, you start with no data, so being able to collect new and valuable data correctly to train your ML models well is crucial to the success of an AI startup. Jeremy will touch on the challenges as well as solutions regarding data collection.",
     "speakers": [
-
+      29
     ],
     "tags": [
       "Cloud"
