@@ -64,6 +64,18 @@
             "name": "Twitter"
           }
         ]
+      },
+      {
+        "name": "Rupert Whitehead",
+        "photoUrl": "/images/people/rupert_whitehead.jpg"
+      },
+      {
+        "name": "Philippa Neels",
+        "photoUrl": "/images/people/philippa_neels.jpg"
+      },
+      {
+        "name": "Sarah Foxlee",
+        "photoUrl": "/images/people/sarah_foxlee.jpg"
       }
     ]
   }
