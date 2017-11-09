@@ -101,7 +101,7 @@
       {
         "icon": "website",
         "name": "Website",
-        "link": "www.mcpher.com"
+        "link": "http://www.mcpher.com"
       },
       {
         "icon": "gplus",
@@ -243,7 +243,7 @@
     ],
     "socials": [
       {
-        "icon": "Website",
+        "icon": "website",
         "name": "Website",
         "link": "https://mashe.hawksey.info"
       },
@@ -476,24 +476,9 @@
     ],
     "socials": [
       {
-        "icon": "website",
-        "name": "Website",
-        "link": "http://codeandwander.com/"
-      },
-      {
-        "icon": "facebook",
-        "name": "Facebook",
-        "link": "https://facebook.com/codeandwander"
-      },
-      {
         "icon": "twitter",
         "name": "Twitter",
-        "link": "https://twitter.com/codeandwander"
-      },
-      {
-        "icon": "instagram",
-        "name": "Instagram",
-        "link": "https://instagram.com/codeandwander"
+        "link": "https://twitter.com/ale_sannazzaro"
       },
       {
         "icon": "linkedin",
