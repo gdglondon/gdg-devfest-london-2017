@@ -726,5 +726,160 @@
         "link": "https://twitter.com/mentioum"
       }
     ]
+  },
+  "30": {
+    "id": 30,
+    "featured": true,
+    "name": "Kaan Mamikoglu",
+    "title": "Mobile Software Engineer",
+    "company": "MyDrive Solutions",
+    "companyLogo": "/images/logos/mydrive.png",
+    "photoUrl": "/images/people/kaan.jpg",
+    "shortBio": "Kaan is a mobile software engineer at MyDrive Solutions in London, UK. As an active community builder, he has co-organized a lot of developer events in Turkey and the UK such as DevFests, Android Developer Days’, Android Study Jams, etc.",
+    "bio": "Kaan is a mobile software engineer at MyDrive Solutions in London, UK. As an active community builder, he has co-organized a lot of developer events in Turkey and the UK such as DevFests, Android Developer Days’, Android Study Jams, etc. Besides being a Google Developer Group (GDG) London co-organizer, he is a Google Top Contributor (TC) and a Google Local Guide. Kaan is passionate about exploring new technologies and traveling around the world.",
+    "tags": [
+      "Android"
+    ],
+    "socials": [
+      {
+        "icon": "website",
+        "link": "http://www.iamkaan.com/",
+        "name": "Website"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "http://twitter.com/kaanmamikoglu"
+      },
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "http://linkedin.com/in/iamkaan"
+      },
+      {
+        "icon": "github",
+        "name": "GitHub",
+        "link": "http://github.com/iamkaan"
+      }
+    ]
+  },
+  "31": {
+    "id": 31,
+    "featured": true,
+    "name": "Nicole Rodrigues",
+    "title": "Creative Writer",
+    "company": "Google",
+    "companyLogo": "/images/logos/google.svg",
+    "photoUrl": "/images/people/nicole_rodrigues.jpg",
+    "shortBio": "Professional migraineur. A mashup of writer and localization specialist for the Google Assistant's Personality in Brazilian Portuguese.",
+    "bio": "Professional migraineur. A mashup of writer and localization specialist for the Google Assistant's Personality in Brazilian Portuguese.",
+    "tags": [
+      "Web"
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "http://twitter.com/tradutoraBR"
+      },
+      {
+        "icon": "website",
+        "name": "Website",
+        "link": "https://chatbotsworld.tumblr.com/"
+      }
+    ]
+  },
+  "32": {
+    "id": 32,
+    "featured": true,
+    "name": "Francesco Pontillo",
+    "title": "Software Engineer",
+    "company": "Novoda",
+    "companyLogo": "/images/logos/novoda.svg",
+    "photoUrl": "/images/people/francesco_pontillo.jpg",
+    "shortBio": "Officially an Android developer at Novoda, he is an undercover multi technologist who likes to hack with all kinds of technologies. Clear eyes, full hearts, can't lose.",
+    "bio": "Officially an Android developer at Novoda, he is an undercover multi technologist who likes to hack with all kinds of technologies. Clear eyes, full hearts, can't lose.",
+    "tags": [
+      "Web"
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "http://twitter.com/frapontillo"
+      }
+    ]
+  },
+  "33": {
+    "id": 33,
+    "featured": true,
+    "name": "Amanda Cavallaro",
+    "title": "Software Developer",
+    "company": "GDG Cloud London",
+    "companyLogo": "/images/logos/gdg_cloud_london.png",
+    "photoUrl": "/images/people/amanda_cavallaro.jpg",
+    "shortBio": "Amanda Cavallaro is a software developer, passionate about Cloud technologies, Human Computer Interactions and Chatbots.",
+    "bio": "Amanda Cavallaro is a software developer, passionate about Cloud technologies, Human Computer Interactions and Chatbots. She works at resolver.co.uk and is a Women Techmakers Lead and Community Organiser at Google Developer Group Cloud London. You can speak to her in Portuguese, English, Italian and and a little of Japanese. More info on her personal website: http://amanda.ml/index.html",
+    "tags": [
+      "Web"
+    ],
+    "socials": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "link": "http://amanda.ml"
+      }
+    ]
+  },
+  "34": {
+    "id": 34,
+    "featured": true,
+    "name": "Sharif Salah",
+    "title": "Technical Writer",
+    "company": "Google",
+    "companyLogo": "/images/logos/google.svg",
+    "photoUrl": "/images/people/sharif_salah.jpg",
+    "shortBio": "Sharif currently writes technical documentation for Google Cloud Platform. He's previously written developer documentation for Android as well as technical training content for Google Cloud Platform.",
+    "bio": "Sharif currently writes technical documentation for Google Cloud Platform. He's previously written developer documentation for Android as well as technical training content for Google Cloud Platform. He enjoys public speaking, facilitating training classes, and generally spending time helping the developer community. When not writing technical documentation, he can usually be found reading science fiction, cooking, or walking in the countryside.",
+    "tags": [
+      "Cloud"
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "http://twitter.com/sharif_salah"
+      }
+    ]
+  },
+  "35": {
+    "id": 35,
+    "featured": true,
+    "name": "Jose Nieto",
+    "title": "Android Content Developer",
+    "company": "Udacity",
+    "companyLogo": "/images/logos/udacity.svg",
+    "photoUrl": "/images/people/jose_nieto.jpg",
+    "shortBio": "Jose works as an Android Content Developer at Udacity, where he contributes to build the courses and learning experiences for thousands of future Android Developers all around the world.",
+    "bio": "After completing a career change to become an Android Development, Jose started collaborating with Udacity as Connect Session Leader for Associate Android Developer Fast Track students. Back again into education, Jose quickly got deeply involved in it. Being able to have an impact on so many others' lives and helping them to get closer to their dream jobs has been an immensely fulfilling experience for him.",
+    "tags": [
+      "Android"
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "http://twitter.com/codingjose"
+      }
+    ]
+  },
+  "36": {
+    "id": 36,
+    "featured": true,
+    "name": "Javier Gonzalez",
+    "title": "Android Developer",
+    "tags": [
+      "Android"
+    ]
   }
 }
