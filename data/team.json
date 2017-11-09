@@ -76,6 +76,17 @@
       {
         "name": "Sarah Foxlee",
         "photoUrl": "/images/people/sarah_foxlee.jpg"
+      },
+      {
+        "name": "Amanda Cavallaro",
+        "photoUrl": "/images/people/amanda_cavallaro.jpg",
+        "socials": [
+          {
+            "icon": "website",
+            "name": "Website",
+            "link": "http://amanda.ml"
+          }
+        ]
       }
     ]
   }
