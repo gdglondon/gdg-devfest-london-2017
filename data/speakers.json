@@ -492,8 +492,8 @@
     "featured": true,
     "name": "Aygul Zagidullina",
     "title": "Google Launchpad Mentor",
-    "company": "GDG/WTM London",
-    "companyLogo": "/images/logos/gdg_london.svg",
+    "company": "Google Launchpad",
+    "companyLogo": "/images/logos/launchpad.svg",
     "photoUrl": "/images/people/aygul.jpg",
     "shortBio": "Aygul is an experienced community manager and advocate for women in tech. Ex-Googler. PhD in quantum chemistry.",
     "bio": "Aygul is an experienced community manager and advocate for women in tech. Ex-Googler. PhD in quantum chemistry. Enthusiastic serial volunteer who is involved in many innovative projects (Google Launchpad Mentor for marketing/ growth, Google Developer Group and Women Techmakers Lead for London, Google Top Contributor, a distinguished international speaker). Early adopter. Technology admirer. Named as one of The NEXT 100 Top Influencers of the European Digital Industry in 2013.",
@@ -875,7 +875,7 @@
   },
   "36": {
     "id": 36,
-    "featured": true,
+    "featured": false,
     "name": "Javier Gonzalez",
     "title": "Android Developer",
     "tags": [
