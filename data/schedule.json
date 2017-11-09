@@ -18,7 +18,7 @@
         "startTime": "09:30",
         "endTime": ["10:45"],
         "track":  {
-          "title": "Reception area"
+          "title": "North Cloisters"
         },
         "sessions": [
           [101]
@@ -30,7 +30,7 @@
           "title": "Jeremy Bentham Room"
         },
         "sessions": [
-          [601]
+          [199]
         ]
       }, {
         "startTime": "10:45",
@@ -80,7 +80,7 @@
         "startTime": "12:30",
         "endTime": ["13:30", "12:55"],
         "track":  {
-          "title": "Reception area"
+          "title": "North Cloisters"
         },
         "sessions": [
           [291],
@@ -102,11 +102,17 @@
       }, {
         "startTime": "13:10",
         "endTime": ["14:10"],
+        "track":  {
+          "title": "North Cloisters"
+        },
         "sessions": [
           [591]
         ]
       }, {
         "startTime": "13:30",
+        "track":  {
+          "title": "North Cloisters"
+        },
         "endTime": ["14:00", "14:10", "14:30"],
         "sessions": [
           [201],
@@ -152,12 +158,18 @@
       }, {
         "startTime": "15:00",
         "endTime": ["15:30"],
+        "track":  {
+          "title": "North Cloisters"
+        },
         "sessions": [
           [390]
         ]
       }, {
         "startTime": "15:15",
         "endTime": ["15:45", "15:55"],
+        "track":  {
+          "title": "North Cloisters"
+        },
         "sessions": [
           [590],
           [408]
@@ -165,6 +177,9 @@
       }, {
         "startTime": "15:25",
         "endTime": ["15:55"],
+        "track":  {
+          "title": "North Cloisters"
+        },
         "sessions": [
           [290]
         ]
@@ -189,6 +204,9 @@
       }, {
         "startTime": "15:55",
         "endTime": ["16:30"],
+        "track":  {
+          "title": "North Cloisters"
+        },
         "sessions": [
           [490]
         ]
@@ -240,7 +258,7 @@
         "startTime": "17:15",
         "endTime": ["18:30"],
         "track":  {
-          "title": "Reception area"
+          "title": "Jeremy Bentham Room"
         },
         "sessions": [
           [131]
